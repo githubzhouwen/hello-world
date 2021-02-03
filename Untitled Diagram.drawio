@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-03T11:32:45.859Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="8XQvkjDCFSY5eVYXfGJz" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-03T11:34:49.778Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="2sFoTvjpbB2WNdJWwwiX" version="14.2.9" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
-    <mxGraphModel dx="1037" dy="1754" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="659" dy="877" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -183,7 +183,7 @@
           <mxGeometry x="81" y="1197" width="137" height="254" as="geometry" />
         </mxCell>
         <mxCell id="mgTYE4qe_ixQDPlizRL3-160" value="activity_config" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fillColor=none;gradientColor=none;" vertex="1" parent="mgTYE4qe_ixQDPlizRL3-247">
-          <mxGeometry width="137" height="251" as="geometry" />
+          <mxGeometry width="137" height="244" as="geometry" />
         </mxCell>
         <mxCell id="mgTYE4qe_ixQDPlizRL3-164" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="mgTYE4qe_ixQDPlizRL3-160">
           <mxGeometry y="30" width="137" height="30" as="geometry" />
@@ -249,7 +249,7 @@
           <mxGeometry x="41.9166666666667" width="95.0833333333333" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mgTYE4qe_ixQDPlizRL3-305" value="activity_event_config" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fillColor=none;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="483" y="1193" width="147" height="185" as="geometry" />
+          <mxGeometry x="483" y="1197" width="147" height="185" as="geometry" />
         </mxCell>
         <mxCell id="mgTYE4qe_ixQDPlizRL3-306" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="mgTYE4qe_ixQDPlizRL3-305">
           <mxGeometry y="30" width="147" height="30" as="geometry" />
