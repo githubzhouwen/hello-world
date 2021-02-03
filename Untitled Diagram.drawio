@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-03T15:37:55.702Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="84omRYufjOyHAMQvC6u6" version="14.2.9" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-02-03T15:41:28.191Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="n4RgldnSLnjc_jjMEJRe" version="14.2.9" type="github" pages="2">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="activity">
     <mxGraphModel dx="2965" dy="1363" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -910,6 +910,18 @@
         </mxCell>
         <mxCell id="u6GbhwiS5OFPrCx52x9q-89" value="Parent" style="whiteSpace=wrap;html=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="u6GbhwiS5OFPrCx52x9q-67">
           <mxGeometry x="430" y="361" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="u6GbhwiS5OFPrCx52x9q-94" value="Process Bar" style="swimlane;childLayout=stackLayout;horizontal=1;fillColor=none;horizontalStack=1;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;strokeColor=none;stackBorder=10;stackSpacing=-12;resizable=1;align=center;points=[];fontColor=#000000;" vertex="1" parent="u6GbhwiS5OFPrCx52x9q-1">
+          <mxGeometry x="194" y="472" width="296" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="u6GbhwiS5OFPrCx52x9q-95" value="Step 1" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];" vertex="1" parent="u6GbhwiS5OFPrCx52x9q-94">
+          <mxGeometry x="10" y="33" width="100" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="u6GbhwiS5OFPrCx52x9q-96" value="Step 2" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];" vertex="1" parent="u6GbhwiS5OFPrCx52x9q-94">
+          <mxGeometry x="98" y="33" width="100" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="u6GbhwiS5OFPrCx52x9q-97" value="Step 3" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];" vertex="1" parent="u6GbhwiS5OFPrCx52x9q-94">
+          <mxGeometry x="186" y="33" width="100" height="57" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
