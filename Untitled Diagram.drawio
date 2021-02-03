@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-03T14:42:44.774Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="7pIVsl7Oo5ZAFwTy7Yzu" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-03T14:43:03.935Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="RpivrNJruL0XefcxtH6_" version="14.2.9" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="activity">
     <mxGraphModel dx="739" dy="877" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -17,7 +17,7 @@
           <mxGeometry x="38" y="7" width="24.5" height="416" as="geometry" />
         </mxCell>
         <mxCell id="mgTYE4qe_ixQDPlizRL3-232" value="风控&lt;br&gt;策略" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="mgTYE4qe_ixQDPlizRL3-233">
-          <mxGeometry x="5.75" y="7" width="24.5" height="416" as="geometry" />
+          <mxGeometry x="7.75" y="7" width="24.5" height="416" as="geometry" />
         </mxCell>
         <mxCell id="mgTYE4qe_ixQDPlizRL3-111" value="" style="group;rounded=1;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="78" y="311.5" width="554" height="550" as="geometry" />
