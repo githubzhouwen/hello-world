@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-04T03:08:11.803Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="kKVw3CjYozQFF-pEvdNb" version="14.2.9" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-02-04T03:11:03.614Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="2RibQb0Rx_YseHmDRdZa" version="14.2.9" type="github" pages="2">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="activity">
     <mxGraphModel dx="932" dy="531" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -170,7 +170,7 @@
         <mxCell id="mgTYE4qe_ixQDPlizRL3-119" value="贷中管理平台" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="471" y="543" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="mgTYE4qe_ixQDPlizRL3-142" value="&lt;ul&gt;&lt;li&gt;活动分类&lt;/li&gt;&lt;li&gt;活动模板&lt;/li&gt;&lt;li&gt;活动快速创建&lt;/li&gt;&lt;li&gt;流程编排&lt;/li&gt;&lt;li&gt;收益分析&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;dashed=1;dashPattern=1 4;fillColor=#cdeb8b;strokeColor=#36393d;rounded=1;" parent="1" vertex="1">
+        <mxCell id="mgTYE4qe_ixQDPlizRL3-142" value="&lt;ul&gt;&lt;li&gt;活动分类&lt;/li&gt;&lt;li&gt;活动模板设计&lt;/li&gt;&lt;li&gt;活动快速创建&lt;/li&gt;&lt;li&gt;活动流程编排&lt;/li&gt;&lt;li&gt;活动收益分析&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;dashed=1;dashPattern=1 4;fillColor=#cdeb8b;strokeColor=#36393d;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="166.5" y="490" width="129" height="93" as="geometry" />
         </mxCell>
         <mxCell id="mgTYE4qe_ixQDPlizRL3-145" value="&lt;ul&gt;&lt;li&gt;出行券&lt;/li&gt;&lt;li&gt;金融券&lt;/li&gt;&lt;li&gt;现金红包&lt;/li&gt;&lt;li&gt;零钱&lt;/li&gt;&lt;li&gt;额度&lt;/li&gt;&lt;li&gt;利率&lt;/li&gt;&lt;li&gt;锁期&lt;/li&gt;&lt;li&gt;积分&lt;/li&gt;&lt;li&gt;其他&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;dashed=1;dashPattern=1 4;fillColor=#cdeb8b;strokeColor=#36393d;rounded=1;" parent="1" vertex="1">
