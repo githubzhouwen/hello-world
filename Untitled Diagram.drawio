@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-04T03:03:35.349Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="UtX9rR3tAgLQ9oypw5fU" version="14.2.9" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-02-04T03:04:13.186Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="5b4dfh20I4KqbLKSWFPD" version="14.2.9" type="github" pages="2">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="activity">
     <mxGraphModel dx="932" dy="531" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -718,61 +718,61 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Gq5RV-1QUani6-NyftmI-13" value="activity_authority_config" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fillColor=none;gradientColor=none;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="328" y="1300" width="180" height="215" as="geometry" />
+          <mxGeometry x="332" y="1298" width="171" height="215" as="geometry" />
         </mxCell>
         <mxCell id="Gq5RV-1QUani6-NyftmI-14" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Gq5RV-1QUani6-NyftmI-13">
-          <mxGeometry y="30" width="180" height="30" as="geometry" />
+          <mxGeometry y="30" width="171" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Gq5RV-1QUani6-NyftmI-15" value="PK" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;" vertex="1" parent="Gq5RV-1QUani6-NyftmI-14">
           <mxGeometry width="48.05882352941177" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Gq5RV-1QUani6-NyftmI-16" value="authority_id" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=1;overflow=hidden;" vertex="1" parent="Gq5RV-1QUani6-NyftmI-14">
-          <mxGeometry x="48.05882352941177" width="131.94117647058823" height="30" as="geometry" />
+          <mxGeometry x="48.05882352941177" width="122.94117647058823" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Gq5RV-1QUani6-NyftmI-17" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Gq5RV-1QUani6-NyftmI-13">
-          <mxGeometry y="60" width="180" height="30" as="geometry" />
+          <mxGeometry y="60" width="171" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Gq5RV-1QUani6-NyftmI-18" value="FK" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;" vertex="1" parent="Gq5RV-1QUani6-NyftmI-17">
           <mxGeometry width="48.05882352941177" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Gq5RV-1QUani6-NyftmI-19" value="activity_id" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=1;overflow=hidden;" vertex="1" parent="Gq5RV-1QUani6-NyftmI-17">
-          <mxGeometry x="48.05882352941177" width="131.94117647058823" height="30" as="geometry" />
+          <mxGeometry x="48.05882352941177" width="122.94117647058823" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Gq5RV-1QUani6-NyftmI-20" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Gq5RV-1QUani6-NyftmI-13">
-          <mxGeometry y="90" width="180" height="30" as="geometry" />
+          <mxGeometry y="90" width="171" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Gq5RV-1QUani6-NyftmI-21" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" vertex="1" parent="Gq5RV-1QUani6-NyftmI-20">
           <mxGeometry width="48.05882352941177" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Gq5RV-1QUani6-NyftmI-22" value="活动允许人群" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="Gq5RV-1QUani6-NyftmI-20">
-          <mxGeometry x="48.05882352941177" width="131.94117647058823" height="30" as="geometry" />
+          <mxGeometry x="48.05882352941177" width="122.94117647058823" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Gq5RV-1QUani6-NyftmI-23" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Gq5RV-1QUani6-NyftmI-13">
-          <mxGeometry y="120" width="180" height="30" as="geometry" />
+          <mxGeometry y="120" width="171" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Gq5RV-1QUani6-NyftmI-24" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" vertex="1" parent="Gq5RV-1QUani6-NyftmI-23">
           <mxGeometry width="48.05882352941177" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Gq5RV-1QUani6-NyftmI-25" value="人群是否反选" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="Gq5RV-1QUani6-NyftmI-23">
-          <mxGeometry x="48.05882352941177" width="131.94117647058823" height="30" as="geometry" />
+          <mxGeometry x="48.05882352941177" width="122.94117647058823" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Gq5RV-1QUani6-NyftmI-26" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Gq5RV-1QUani6-NyftmI-13">
-          <mxGeometry y="150" width="180" height="30" as="geometry" />
+          <mxGeometry y="150" width="171" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Gq5RV-1QUani6-NyftmI-27" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" vertex="1" parent="Gq5RV-1QUani6-NyftmI-26">
           <mxGeometry width="48.05882352941177" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Gq5RV-1QUani6-NyftmI-28" value="活动限制次数" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="Gq5RV-1QUani6-NyftmI-26">
-          <mxGeometry x="48.05882352941177" width="131.94117647058823" height="30" as="geometry" />
+          <mxGeometry x="48.05882352941177" width="122.94117647058823" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Gq5RV-1QUani6-NyftmI-29" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Gq5RV-1QUani6-NyftmI-13">
-          <mxGeometry y="180" width="180" height="30" as="geometry" />
+          <mxGeometry y="180" width="171" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Gq5RV-1QUani6-NyftmI-30" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" vertex="1" parent="Gq5RV-1QUani6-NyftmI-29">
           <mxGeometry width="48.05882352941177" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Gq5RV-1QUani6-NyftmI-31" value="活动周期内限制次数" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="Gq5RV-1QUani6-NyftmI-29">
-          <mxGeometry x="48.05882352941177" width="131.94117647058823" height="30" as="geometry" />
+          <mxGeometry x="48.05882352941177" width="122.94117647058823" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
