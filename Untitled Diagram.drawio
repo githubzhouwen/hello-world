@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-04T03:27:52.047Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="Pp9bUU2nGBfRs1GIZScI" version="14.2.9" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-02-04T03:33:00.817Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="Z3PvwOJEwkB_J6Nb7o7F" version="14.2.9" type="github" pages="2">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="activity">
     <mxGraphModel dx="932" dy="531" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -141,10 +141,10 @@
             <mxPoint x="142" y="1602" as="sourcePoint" />
             <mxPoint x="731" y="1244" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="532" y="1649" />
-              <mxPoint x="532" y="1500" />
-              <mxPoint x="737" y="1500" />
-              <mxPoint x="737" y="1145" />
+              <mxPoint x="537" y="1649" />
+              <mxPoint x="537" y="1526" />
+              <mxPoint x="727" y="1526" />
+              <mxPoint x="727" y="1145" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -382,7 +382,7 @@
           <mxGeometry x="132" y="1100" width="558" height="413" as="geometry" />
         </mxCell>
         <mxCell id="mgTYE4qe_ixQDPlizRL3-182" value="activity_task_config" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fillColor=#e1d5e7;rounded=1;strokeColor=#9673a6;" parent="Gq5RV-1QUani6-NyftmI-38" vertex="1">
-          <mxGeometry x="201" width="141" height="185" as="geometry" />
+          <mxGeometry x="198" width="141" height="185" as="geometry" />
         </mxCell>
         <mxCell id="mgTYE4qe_ixQDPlizRL3-183" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="mgTYE4qe_ixQDPlizRL3-182" vertex="1">
           <mxGeometry y="30" width="141" height="30" as="geometry" />
@@ -430,7 +430,7 @@
           <mxGeometry x="48.05882352941177" width="92.94117647058823" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mgTYE4qe_ixQDPlizRL3-305" value="activity_event_config" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fillColor=#e1d5e7;rounded=1;strokeColor=#9673a6;" parent="Gq5RV-1QUani6-NyftmI-38" vertex="1">
-          <mxGeometry x="402" width="156" height="185" as="geometry" />
+          <mxGeometry x="393" width="156" height="185" as="geometry" />
         </mxCell>
         <mxCell id="mgTYE4qe_ixQDPlizRL3-306" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="mgTYE4qe_ixQDPlizRL3-305" vertex="1">
           <mxGeometry y="30" width="156" height="30" as="geometry" />
@@ -477,8 +477,8 @@
         <mxCell id="mgTYE4qe_ixQDPlizRL3-320" value="事件顺序" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="mgTYE4qe_ixQDPlizRL3-318" vertex="1">
           <mxGeometry x="49.07142857142866" width="106.92857142857133" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Gq5RV-1QUani6-NyftmI-13" value="activity_authority_config" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fillColor=#e1d5e7;rounded=1;strokeColor=#9673a6;" vertex="1" parent="Gq5RV-1QUani6-NyftmI-38">
-          <mxGeometry x="200" y="198" width="171" height="215" as="geometry" />
+        <mxCell id="Gq5RV-1QUani6-NyftmI-13" value="activity_access_config" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fillColor=#e1d5e7;rounded=1;strokeColor=#9673a6;" vertex="1" parent="Gq5RV-1QUani6-NyftmI-38">
+          <mxGeometry x="198" y="198" width="171" height="215" as="geometry" />
         </mxCell>
         <mxCell id="Gq5RV-1QUani6-NyftmI-14" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Gq5RV-1QUani6-NyftmI-13">
           <mxGeometry y="30" width="171" height="30" as="geometry" />
@@ -486,7 +486,7 @@
         <mxCell id="Gq5RV-1QUani6-NyftmI-15" value="PK" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;" vertex="1" parent="Gq5RV-1QUani6-NyftmI-14">
           <mxGeometry width="48.05882352941177" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Gq5RV-1QUani6-NyftmI-16" value="authority_id" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=1;overflow=hidden;" vertex="1" parent="Gq5RV-1QUani6-NyftmI-14">
+        <mxCell id="Gq5RV-1QUani6-NyftmI-16" value="access_id" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=1;overflow=hidden;" vertex="1" parent="Gq5RV-1QUani6-NyftmI-14">
           <mxGeometry x="48.05882352941177" width="122.94117647058823" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Gq5RV-1QUani6-NyftmI-17" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Gq5RV-1QUani6-NyftmI-13">
