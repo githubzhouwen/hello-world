@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-09T07:09:25.762Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="z_vKaorFEtiJ3YR08ezv" version="14.2.9" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-02-09T07:14:14.878Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="4B-XkIGsYa_3wvnNOgSS" version="14.2.9" type="github" pages="2">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="activity">
     <mxGraphModel dx="932" dy="517" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -1374,80 +1374,80 @@
             <mxPoint x="218" y="2468" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="h8EkxmgpmUlwqY7g3yY6-11" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;" edge="1" parent="u6GbhwiS5OFPrCx52x9q-1" source="h8EkxmgpmUlwqY7g3yY6-8" target="h8EkxmgpmUlwqY7g3yY6-9">
+        <mxCell id="h8EkxmgpmUlwqY7g3yY6-11" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;shadow=0;html=1;" edge="1" parent="u6GbhwiS5OFPrCx52x9q-1" source="h8EkxmgpmUlwqY7g3yY6-8" target="h8EkxmgpmUlwqY7g3yY6-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h8EkxmgpmUlwqY7g3yY6-13" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;edgeStyle=entityRelationEdgeStyle;elbow=vertical;" edge="1" parent="u6GbhwiS5OFPrCx52x9q-1" source="h8EkxmgpmUlwqY7g3yY6-8" target="h8EkxmgpmUlwqY7g3yY6-12">
+        <mxCell id="h8EkxmgpmUlwqY7g3yY6-13" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;shadow=0;edgeStyle=entityRelationEdgeStyle;elbow=vertical;html=1;" edge="1" parent="u6GbhwiS5OFPrCx52x9q-1" source="h8EkxmgpmUlwqY7g3yY6-8" target="h8EkxmgpmUlwqY7g3yY6-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h8EkxmgpmUlwqY7g3yY6-15" value="&lt;div style=&quot;background-color: rgb(255 , 255 , 254) ; font-family: &amp;#34;&amp;#34;&quot;&gt;on  a.loan_order_id=b.order_id&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="h8EkxmgpmUlwqY7g3yY6-13">
+        <mxCell id="h8EkxmgpmUlwqY7g3yY6-15" value="on  a.loan_order_id=b.order_id" style="edgeLabel;align=center;verticalAlign=middle;resizable=0;points=[];html=1;" vertex="1" connectable="0" parent="h8EkxmgpmUlwqY7g3yY6-13">
           <mxGeometry x="0.2464" relative="1" as="geometry">
             <mxPoint y="4" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="h8EkxmgpmUlwqY7g3yY6-33" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;" edge="1" parent="u6GbhwiS5OFPrCx52x9q-1" source="h8EkxmgpmUlwqY7g3yY6-8" target="h8EkxmgpmUlwqY7g3yY6-32">
+        <mxCell id="h8EkxmgpmUlwqY7g3yY6-33" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;shadow=0;html=1;" edge="1" parent="u6GbhwiS5OFPrCx52x9q-1" source="h8EkxmgpmUlwqY7g3yY6-8" target="h8EkxmgpmUlwqY7g3yY6-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h8EkxmgpmUlwqY7g3yY6-8" value="&lt;div style=&quot;background-color: rgb(255 , 255 , 254)&quot;&gt;&lt;div&gt;&lt;span style=&quot;font-family: &amp;quot;&amp;quot;&quot;&gt;用户授信信息—&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;&amp;quot;&quot;&gt;manhattan_loan_dcargo.&lt;/span&gt;&lt;font&gt;cf_credit_info_full_table_2nd&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="u6GbhwiS5OFPrCx52x9q-1">
-          <mxGeometry x="191.5" y="3240" width="378" height="28" as="geometry" />
+        <mxCell id="h8EkxmgpmUlwqY7g3yY6-8" value="用户授信信息—manhattan_loan_dcargo.cf_credit_info_full_table_2nd" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="u6GbhwiS5OFPrCx52x9q-1">
+          <mxGeometry x="189" y="3217" width="378" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="h8EkxmgpmUlwqY7g3yY6-9" value="&lt;div style=&quot;background-color: rgb(255 , 255 , 254)&quot;&gt;&lt;div style=&quot;font-family: &amp;quot;&amp;quot;&quot;&gt;manhattan_ods.ods_binlog_&lt;font&gt;cf_loan&lt;/font&gt;_whole&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="u6GbhwiS5OFPrCx52x9q-1">
-          <mxGeometry x="351.5" y="3271" width="239" height="28" as="geometry" />
+        <mxCell id="h8EkxmgpmUlwqY7g3yY6-9" value="manhattan_ods.ods_binlog_cf_loan_whole" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="u6GbhwiS5OFPrCx52x9q-1">
+          <mxGeometry x="349" y="3248" width="239" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="h8EkxmgpmUlwqY7g3yY6-12" value="&lt;div style=&quot;background-color: rgb(255 , 255 , 254)&quot;&gt;&lt;div style=&quot;font-family: &amp;quot;&amp;quot;&quot;&gt;manhattan_ods.ods_binlog_loan_contract_&lt;font&gt;cf_contract&lt;/font&gt;_h_whole&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="u6GbhwiS5OFPrCx52x9q-1">
-          <mxGeometry x="232.5" y="3324" width="358" height="28" as="geometry" />
+        <mxCell id="h8EkxmgpmUlwqY7g3yY6-12" value="manhattan_ods.ods_binlog_loan_contract_cf_contract_h_whole" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="u6GbhwiS5OFPrCx52x9q-1">
+          <mxGeometry x="230" y="3301" width="358" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="h8EkxmgpmUlwqY7g3yY6-18" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;" edge="1" parent="u6GbhwiS5OFPrCx52x9q-1" source="h8EkxmgpmUlwqY7g3yY6-16" target="h8EkxmgpmUlwqY7g3yY6-17">
+        <mxCell id="h8EkxmgpmUlwqY7g3yY6-18" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;shadow=0;html=1;" edge="1" parent="u6GbhwiS5OFPrCx52x9q-1" source="h8EkxmgpmUlwqY7g3yY6-16" target="h8EkxmgpmUlwqY7g3yY6-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h8EkxmgpmUlwqY7g3yY6-20" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;" edge="1" parent="u6GbhwiS5OFPrCx52x9q-1" source="h8EkxmgpmUlwqY7g3yY6-16" target="h8EkxmgpmUlwqY7g3yY6-19">
+        <mxCell id="h8EkxmgpmUlwqY7g3yY6-20" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;shadow=0;html=1;" edge="1" parent="u6GbhwiS5OFPrCx52x9q-1" source="h8EkxmgpmUlwqY7g3yY6-16" target="h8EkxmgpmUlwqY7g3yY6-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h8EkxmgpmUlwqY7g3yY6-21" value="&lt;div style=&quot;background-color: rgb(255 , 255 , 254) ; font-family: &amp;#34;&amp;#34;&quot;&gt;on      contract_template.order_id = credit.application_code&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="h8EkxmgpmUlwqY7g3yY6-20">
+        <mxCell id="h8EkxmgpmUlwqY7g3yY6-21" value="on      contract_template.order_id = credit.application_code" style="edgeLabel;align=center;verticalAlign=middle;resizable=0;points=[];html=1;" vertex="1" connectable="0" parent="h8EkxmgpmUlwqY7g3yY6-20">
           <mxGeometry x="0.5612" y="3" relative="1" as="geometry">
-            <mxPoint y="-15" as="offset" />
+            <mxPoint y="-19" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="h8EkxmgpmUlwqY7g3yY6-16" value="&lt;div style=&quot;background-color: rgb(255 , 255 , 254)&quot;&gt;&lt;div&gt;&lt;span style=&quot;font-family: &amp;quot;&amp;quot;&quot;&gt;有效的授信—&lt;/span&gt;&lt;span style=&quot;&quot;&gt;manhattan_loan_dcargo.&lt;/span&gt;&lt;font&gt;cf_credit_contract_table_full_2nd&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="u6GbhwiS5OFPrCx52x9q-1">
+        <mxCell id="h8EkxmgpmUlwqY7g3yY6-16" value="有效的授信—manhattan_loan_dcargo.cf_credit_contract_table_full_2nd" style="text;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;html=1;" vertex="1" parent="u6GbhwiS5OFPrCx52x9q-1">
           <mxGeometry x="146.5" y="3055" width="390.5" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="h8EkxmgpmUlwqY7g3yY6-17" value="&lt;div style=&quot;background-color: rgb(255 , 255 , 254)&quot;&gt;&lt;div style=&quot;font-family: &amp;quot;&amp;quot;&quot;&gt;manhattan_dw.dwd_&lt;font&gt;loan_credit&lt;/font&gt;_h_whole&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="u6GbhwiS5OFPrCx52x9q-1">
-          <mxGeometry x="353.5" y="3083" width="232" height="28" as="geometry" />
+        <mxCell id="h8EkxmgpmUlwqY7g3yY6-17" value="manhattan_dw.dwd_loan_credit_h_whole" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="u6GbhwiS5OFPrCx52x9q-1">
+          <mxGeometry x="363" y="3085" width="222.5" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="h8EkxmgpmUlwqY7g3yY6-19" value="&lt;div style=&quot;color: #000000 ; background-color: #fffffe&quot;&gt;&lt;div style=&quot;font-family: &amp;#34;&amp;#34;&quot;&gt;manhattan_loan_dcargo.cf_contract_table_full_2nd&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="u6GbhwiS5OFPrCx52x9q-1">
-          <mxGeometry x="298.5" y="3130" width="287" height="28" as="geometry" />
+        <mxCell id="h8EkxmgpmUlwqY7g3yY6-19" value="manhattan_loan_dcargo.cf_contract_table_full_2nd" style="text;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;html=1;" vertex="1" parent="u6GbhwiS5OFPrCx52x9q-1">
+          <mxGeometry x="308" y="3134" width="277.5" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="h8EkxmgpmUlwqY7g3yY6-24" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;" edge="1" parent="u6GbhwiS5OFPrCx52x9q-1" source="h8EkxmgpmUlwqY7g3yY6-22" target="h8EkxmgpmUlwqY7g3yY6-23">
+        <mxCell id="h8EkxmgpmUlwqY7g3yY6-24" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;shadow=0;html=1;" edge="1" parent="u6GbhwiS5OFPrCx52x9q-1" source="h8EkxmgpmUlwqY7g3yY6-22" target="h8EkxmgpmUlwqY7g3yY6-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h8EkxmgpmUlwqY7g3yY6-26" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;" edge="1" parent="u6GbhwiS5OFPrCx52x9q-1" source="h8EkxmgpmUlwqY7g3yY6-22" target="h8EkxmgpmUlwqY7g3yY6-23">
+        <mxCell id="h8EkxmgpmUlwqY7g3yY6-26" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;shadow=0;html=1;" edge="1" parent="u6GbhwiS5OFPrCx52x9q-1" source="h8EkxmgpmUlwqY7g3yY6-22" target="h8EkxmgpmUlwqY7g3yY6-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h8EkxmgpmUlwqY7g3yY6-27" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;" edge="1" parent="u6GbhwiS5OFPrCx52x9q-1" source="h8EkxmgpmUlwqY7g3yY6-22" target="h8EkxmgpmUlwqY7g3yY6-23">
+        <mxCell id="h8EkxmgpmUlwqY7g3yY6-27" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;shadow=0;html=1;" edge="1" parent="u6GbhwiS5OFPrCx52x9q-1" source="h8EkxmgpmUlwqY7g3yY6-22" target="h8EkxmgpmUlwqY7g3yY6-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h8EkxmgpmUlwqY7g3yY6-28" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;" edge="1" parent="u6GbhwiS5OFPrCx52x9q-1" source="h8EkxmgpmUlwqY7g3yY6-22" target="h8EkxmgpmUlwqY7g3yY6-23">
+        <mxCell id="h8EkxmgpmUlwqY7g3yY6-28" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;shadow=0;html=1;" edge="1" parent="u6GbhwiS5OFPrCx52x9q-1" source="h8EkxmgpmUlwqY7g3yY6-22" target="h8EkxmgpmUlwqY7g3yY6-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h8EkxmgpmUlwqY7g3yY6-31" value="&lt;div style=&quot;background-color: rgb(255 , 255 , 254) ; font-family: &amp;#34;&amp;#34;&quot;&gt;on      contract.template_code = template.code&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="h8EkxmgpmUlwqY7g3yY6-28">
+        <mxCell id="h8EkxmgpmUlwqY7g3yY6-31" value="on      contract.template_code = template.code" style="edgeLabel;align=center;verticalAlign=middle;resizable=0;points=[];html=1;" vertex="1" connectable="0" parent="h8EkxmgpmUlwqY7g3yY6-28">
           <mxGeometry x="-0.144" y="1" relative="1" as="geometry">
-            <mxPoint y="-7" as="offset" />
+            <mxPoint y="-4" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="h8EkxmgpmUlwqY7g3yY6-30" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;" edge="1" parent="u6GbhwiS5OFPrCx52x9q-1" source="h8EkxmgpmUlwqY7g3yY6-22" target="h8EkxmgpmUlwqY7g3yY6-29">
+        <mxCell id="h8EkxmgpmUlwqY7g3yY6-30" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;shadow=0;html=1;" edge="1" parent="u6GbhwiS5OFPrCx52x9q-1" source="h8EkxmgpmUlwqY7g3yY6-22" target="h8EkxmgpmUlwqY7g3yY6-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h8EkxmgpmUlwqY7g3yY6-22" value="&lt;div style=&quot;background-color: rgb(255 , 255 , 254)&quot;&gt;&lt;div&gt;&lt;span style=&quot;font-family: &amp;quot;&amp;quot;&quot;&gt;征信授权书、合同模板和合同关联—&lt;/span&gt;manhattan_loan_dcargo&lt;span style=&quot;&quot;&gt;.&lt;/span&gt;&lt;font&gt;cf_contract_table_full_2nd&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="u6GbhwiS5OFPrCx52x9q-1">
+        <mxCell id="h8EkxmgpmUlwqY7g3yY6-22" value="征信授权书、合同模板和合同关联—manhattan_loan_dcargo.cf_contract_table_full_2nd" style="text;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;html=1;" vertex="1" parent="u6GbhwiS5OFPrCx52x9q-1">
           <mxGeometry x="139.5" y="2930" width="470" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="h8EkxmgpmUlwqY7g3yY6-23" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;div style=&quot;color: #000000 ; background-color: #fffffe&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #000000&quot;&gt;manhattan_ods.ods_binlog_loan_contract_contract_template_whole&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="u6GbhwiS5OFPrCx52x9q-1">
+        <mxCell id="h8EkxmgpmUlwqY7g3yY6-23" value="manhattan_ods.ods_binlog_loan_contract_contract_template_whole" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="u6GbhwiS5OFPrCx52x9q-1">
           <mxGeometry x="172.5" y="3005" width="370" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="h8EkxmgpmUlwqY7g3yY6-29" value="&lt;div style=&quot;background-color: rgb(255 , 255 , 254)&quot;&gt;&lt;div style=&quot;font-family: &amp;#34;&amp;#34;&quot;&gt;manhattan_ods.ods_binlog_loan_contract_cf_contract_h_whole&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="u6GbhwiS5OFPrCx52x9q-1">
-          <mxGeometry x="186.5" y="2960" width="356" height="28" as="geometry" />
+        <mxCell id="h8EkxmgpmUlwqY7g3yY6-29" value="manhattan_ods.ods_binlog_loan_contract_cf_contract_h_whole" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="u6GbhwiS5OFPrCx52x9q-1">
+          <mxGeometry x="200" y="2962" width="342.5" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="h8EkxmgpmUlwqY7g3yY6-32" value="&lt;div style=&quot;background-color: rgb(255 , 255 , 254)&quot;&gt;&lt;div style=&quot;font-family: &amp;#34;&amp;#34;&quot;&gt;manhattan_loan_dcargo.cf_credit_contract_table_full_2nd&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="u6GbhwiS5OFPrCx52x9q-1">
-          <mxGeometry x="266.5" y="3356" width="324" height="28" as="geometry" />
+        <mxCell id="h8EkxmgpmUlwqY7g3yY6-32" value="manhattan_loan_dcargo.cf_credit_contract_table_full_2nd" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="u6GbhwiS5OFPrCx52x9q-1">
+          <mxGeometry x="264" y="3333" width="324" height="28" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
