@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-09T08:34:18.831Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="-kJO_tRgtSRnX3ISYl4P" version="14.2.9" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-02-09T08:51:11.532Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="yfLiFtpubMKx6xJWdNoa" version="14.2.9" type="github" pages="2">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="activity">
     <mxGraphModel dx="932" dy="517" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -1382,7 +1382,7 @@
         </mxCell>
         <mxCell id="h8EkxmgpmUlwqY7g3yY6-15" value="on  a.loan_order_id=b.order_id" style="edgeLabel;align=center;verticalAlign=middle;resizable=0;points=[];html=1;" vertex="1" connectable="0" parent="h8EkxmgpmUlwqY7g3yY6-13">
           <mxGeometry x="0.2464" relative="1" as="geometry">
-            <mxPoint x="-1" y="-79" as="offset" />
+            <mxPoint x="-1" y="-82" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="h8EkxmgpmUlwqY7g3yY6-33" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;shadow=0;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="u6GbhwiS5OFPrCx52x9q-1" source="h8EkxmgpmUlwqY7g3yY6-32" target="h8EkxmgpmUlwqY7g3yY6-67">
@@ -1577,18 +1577,18 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="h8EkxmgpmUlwqY7g3yY6-66" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;div style=&quot;color: #000000 ; background-color: #fffffe&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #000000&quot;&gt;manhattan_loan_dcargo.cf_bpp_credit_table_full_2nd credit&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="u6GbhwiS5OFPrCx52x9q-1">
-          <mxGeometry x="264" y="3308" width="322" height="28" as="geometry" />
+        <mxCell id="h8EkxmgpmUlwqY7g3yY6-66" value="manhattan_loan_dcargo.cf_bpp_credit_table_full_2nd credit" style="text;whiteSpace=wrap;fontColor=#000000;strokeColor=#000000;html=1;rounded=1;" vertex="1" parent="u6GbhwiS5OFPrCx52x9q-1">
+          <mxGeometry x="231" y="3317" width="322" height="28" as="geometry" />
         </mxCell>
         <mxCell id="h8EkxmgpmUlwqY7g3yY6-67" value="loan_credit" style="text;whiteSpace=wrap;html=1;gradientColor=#b3b3b3;fillColor=#f5f5f5;strokeColor=#666666;rounded=1;" vertex="1" parent="u6GbhwiS5OFPrCx52x9q-1">
-          <mxGeometry x="491" y="3263" width="62" height="28" as="geometry" />
+          <mxGeometry x="491" y="3266" width="62" height="28" as="geometry" />
         </mxCell>
         <mxCell id="h8EkxmgpmUlwqY7g3yY6-68" value="" style="edgeStyle=elbowEdgeStyle;endArrow=classic;html=1;shadow=0;fontColor=#000000;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="u6GbhwiS5OFPrCx52x9q-1" source="h8EkxmgpmUlwqY7g3yY6-67" target="h8EkxmgpmUlwqY7g3yY6-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="553" y="3275" as="sourcePoint" />
             <mxPoint x="535" y="3124" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="682" y="3201" />
+              <mxPoint x="712" y="3201" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1597,14 +1597,68 @@
             <mxPoint x="712" y="3322" as="sourcePoint" />
             <mxPoint x="533" y="3125" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="681" y="3222" />
+              <mxPoint x="712" y="3228" />
               <mxPoint x="678" y="3225" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="h8EkxmgpmUlwqY7g3yY6-70" value="&lt;div style=&quot;background-color: rgb(255 , 255 , 254) ; font-family: &amp;#34;&amp;#34;&quot;&gt;on credit.credit_code=loan_credit.credit_code&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="h8EkxmgpmUlwqY7g3yY6-69">
           <mxGeometry x="-0.1468" relative="1" as="geometry">
-            <mxPoint x="-89" y="71.59" as="offset" />
+            <mxPoint x="-55" y="44.760000000000005" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h8EkxmgpmUlwqY7g3yY6-76" value="" style="edgeStyle=elbowEdgeStyle;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;fontColor=#000000;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="u6GbhwiS5OFPrCx52x9q-1" source="h8EkxmgpmUlwqY7g3yY6-73" target="h8EkxmgpmUlwqY7g3yY6-81">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="564" y="3428" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h8EkxmgpmUlwqY7g3yY6-73" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;div style=&quot;color: #000000 ; background-color: #fffffe&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #000000&quot;&gt;manhattan_dw.dwd_loan_credit_h_whole a&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="u6GbhwiS5OFPrCx52x9q-1">
+          <mxGeometry x="279" y="3440" width="233" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="h8EkxmgpmUlwqY7g3yY6-77" value="" style="edgeStyle=elbowEdgeStyle;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;fontColor=#000000;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="u6GbhwiS5OFPrCx52x9q-1" source="h8EkxmgpmUlwqY7g3yY6-74" target="h8EkxmgpmUlwqY7g3yY6-81">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="564" y="3439" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h8EkxmgpmUlwqY7g3yY6-83" value="&lt;span style=&quot;font-size: 12px ; text-align: left ; background-color: rgb(255 , 255 , 254)&quot;&gt;on a.cfrnid=b.cfrnid&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 12px ; text-align: left ; background-color: rgb(255 , 255 , 254)&quot;&gt;and&lt;/span&gt;&lt;span style=&quot;font-size: 12px ; text-align: left ; background-color: rgb(255 , 255 , 254)&quot;&gt;&amp;nbsp;a.product_id=b.product_id&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 12px ; text-align: left ; background-color: rgb(255 , 255 , 254)&quot;&gt;and&lt;/span&gt;&lt;span style=&quot;font-size: 12px ; text-align: left ; background-color: rgb(255 , 255 , 254)&quot;&gt;&amp;nbsp;a.funds_channel_id=b.funds_channel_id&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="h8EkxmgpmUlwqY7g3yY6-77">
+          <mxGeometry x="0.0083" y="-3" relative="1" as="geometry">
+            <mxPoint x="-1.5" y="-18.880000000000003" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h8EkxmgpmUlwqY7g3yY6-74" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;div style=&quot;color: #000000 ; background-color: #fffffe&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #000000&quot;&gt;manhattan_dw.dwd_loan_credit_limit_d_whole b&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="u6GbhwiS5OFPrCx52x9q-1">
+          <mxGeometry x="250.5" y="3466" width="261.5" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="h8EkxmgpmUlwqY7g3yY6-80" value="manhattan_loan_dcargo.cf_credit_contract_table_full_2nd contract" style="text;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;html=1;" vertex="1" parent="u6GbhwiS5OFPrCx52x9q-1">
+          <mxGeometry x="197" y="3361" width="360" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="h8EkxmgpmUlwqY7g3yY6-81" value="cre" style="text;whiteSpace=wrap;html=1;gradientColor=#b3b3b3;fillColor=#f5f5f5;strokeColor=#666666;rounded=1;align=center;" vertex="1" parent="u6GbhwiS5OFPrCx52x9q-1">
+          <mxGeometry x="504" y="3393" width="23" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="h8EkxmgpmUlwqY7g3yY6-84" value="" style="edgeStyle=elbowEdgeStyle;endArrow=classic;html=1;shadow=0;fontColor=#000000;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="u6GbhwiS5OFPrCx52x9q-1" source="h8EkxmgpmUlwqY7g3yY6-81" target="h8EkxmgpmUlwqY7g3yY6-66">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="623" y="3389" as="sourcePoint" />
+            <mxPoint x="673" y="3339" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="594" y="3364" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h8EkxmgpmUlwqY7g3yY6-85" value="" style="edgeStyle=elbowEdgeStyle;endArrow=classic;html=1;shadow=0;fontColor=#000000;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;elbow=vertical;" edge="1" parent="u6GbhwiS5OFPrCx52x9q-1" source="h8EkxmgpmUlwqY7g3yY6-80" target="h8EkxmgpmUlwqY7g3yY6-66">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="476" y="3355" as="sourcePoint" />
+            <mxPoint x="526" y="3305" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="594" y="3356" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h8EkxmgpmUlwqY7g3yY6-86" value="&lt;div style=&quot;background-color: rgb(255 , 255 , 254) ; font-family: &amp;#34;&amp;#34;&quot;&gt;on      cre.credit_code = contract.credit_code&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="h8EkxmgpmUlwqY7g3yY6-85">
+          <mxGeometry x="-0.406" y="-1" relative="1" as="geometry">
+            <mxPoint x="90" y="13.47" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
