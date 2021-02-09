@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-09T08:23:02.728Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="qQuoE0cJoH-2nis-MXAW" version="14.2.9" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-02-09T08:24:31.753Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="5d29OQtLJN4_BF90NnUD" version="14.2.9" type="github" pages="2">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="activity">
     <mxGraphModel dx="932" dy="517" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -1382,7 +1382,7 @@
         </mxCell>
         <mxCell id="h8EkxmgpmUlwqY7g3yY6-15" value="on  a.loan_order_id=b.order_id" style="edgeLabel;align=center;verticalAlign=middle;resizable=0;points=[];html=1;" vertex="1" connectable="0" parent="h8EkxmgpmUlwqY7g3yY6-13">
           <mxGeometry x="0.2464" relative="1" as="geometry">
-            <mxPoint x="-1" y="-83" as="offset" />
+            <mxPoint x="-1" y="-79" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="h8EkxmgpmUlwqY7g3yY6-33" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;shadow=0;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="u6GbhwiS5OFPrCx52x9q-1" source="h8EkxmgpmUlwqY7g3yY6-32" target="h8EkxmgpmUlwqY7g3yY6-67">
@@ -1568,17 +1568,17 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="h8EkxmgpmUlwqY7g3yY6-66" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;div style=&quot;color: #000000 ; background-color: #fffffe&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #000000&quot;&gt;manhattan_loan_dcargo.cf_bpp_credit_table_full_2nd credit&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="u6GbhwiS5OFPrCx52x9q-1">
-          <mxGeometry x="295" y="3321" width="322" height="28" as="geometry" />
+          <mxGeometry x="295" y="3326" width="322" height="28" as="geometry" />
         </mxCell>
         <mxCell id="h8EkxmgpmUlwqY7g3yY6-67" value="loan_credit" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="u6GbhwiS5OFPrCx52x9q-1">
-          <mxGeometry x="522" y="3289" width="62" height="28" as="geometry" />
+          <mxGeometry x="522" y="3283" width="62" height="28" as="geometry" />
         </mxCell>
         <mxCell id="h8EkxmgpmUlwqY7g3yY6-68" value="" style="edgeStyle=elbowEdgeStyle;endArrow=classic;html=1;shadow=0;fontColor=#000000;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="u6GbhwiS5OFPrCx52x9q-1" source="h8EkxmgpmUlwqY7g3yY6-67" target="h8EkxmgpmUlwqY7g3yY6-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="678" y="3317" as="sourcePoint" />
             <mxPoint x="566" y="3146" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="786" y="3232" />
+              <mxPoint x="720" y="3226" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1587,13 +1587,13 @@
             <mxPoint x="743" y="3344" as="sourcePoint" />
             <mxPoint x="564" y="3147" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="786" y="3255" />
+              <mxPoint x="720" y="3244" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="h8EkxmgpmUlwqY7g3yY6-70" value="&lt;div style=&quot;background-color: rgb(255 , 255 , 254) ; font-family: &amp;#34;&amp;#34;&quot;&gt;on credit.credit_code=loan_credit.credit_code&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="h8EkxmgpmUlwqY7g3yY6-69">
           <mxGeometry x="-0.1468" relative="1" as="geometry">
-            <mxPoint y="60" as="offset" />
+            <mxPoint x="-89" y="67.59" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
