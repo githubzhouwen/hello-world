@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-20T15:09:36.749Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="yAfdaGPVI5aWT_XZkder" version="14.3.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-02-20T15:10:45.599Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="VZP3qBHSgRuSVcq9pbEO" version="14.3.2" type="github" pages="3">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="活动中心">
     <mxGraphModel dx="932" dy="532" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -2421,6 +2421,9 @@
         </mxCell>
         <mxCell id="p82O2CqZSxfGQg2NTd5P-88" value="特征人群圈选" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeColor=none;" vertex="1" parent="p82O2CqZSxfGQg2NTd5P-85">
           <mxGeometry x="132" y="32.14" width="98" height="19.61" as="geometry" />
+        </mxCell>
+        <mxCell id="p82O2CqZSxfGQg2NTd5P-89" value="" style="shape=mxgraph.bpmn.loop;html=1;outlineConnect=0;rounded=1;shadow=0;labelBackgroundColor=#ffffff;sketch=0;strokeColor=#FF8000;strokeWidth=3;fillColor=none;fontSize=14;fontColor=#999999;opacity=40;align=left;direction=west;" vertex="1" parent="rfalXjpCReByq5IYMZaH-1">
+          <mxGeometry x="1630" y="749" width="50" height="41" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
