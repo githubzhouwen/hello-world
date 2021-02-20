@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-20T15:06:19.193Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="TJyn7gldVQxznwjqB1DX" version="14.3.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-02-20T15:09:36.749Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="yAfdaGPVI5aWT_XZkder" version="14.3.2" type="github" pages="3">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="活动中心">
     <mxGraphModel dx="932" dy="532" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -2390,19 +2390,19 @@
           <mxGeometry x="155" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="p82O2CqZSxfGQg2NTd5P-70" value="" style="group;fontSize=14;fontStyle=1" vertex="1" connectable="0" parent="p82O2CqZSxfGQg2NTd5P-85">
-          <mxGeometry x="259" y="109.09000000000003" width="118" height="52.45" as="geometry" />
+          <mxGeometry x="259" y="90" width="118" height="71.54" as="geometry" />
         </mxCell>
         <mxCell id="p82O2CqZSxfGQg2NTd5P-69" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;dashed=1;strokeColor=#FF8000;" vertex="1" parent="p82O2CqZSxfGQg2NTd5P-70">
-          <mxGeometry x="18" width="100" height="36.593023255813954" as="geometry" />
+          <mxGeometry x="18" width="100" height="49.91162790697675" as="geometry" />
         </mxCell>
         <mxCell id="p82O2CqZSxfGQg2NTd5P-68" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;dashed=1;strokeColor=#FF8000;" vertex="1" parent="p82O2CqZSxfGQg2NTd5P-70">
-          <mxGeometry x="10" y="7.318604651162791" width="100" height="36.593023255813954" as="geometry" />
+          <mxGeometry x="10" y="9.982325581395349" width="100" height="49.91162790697675" as="geometry" />
         </mxCell>
         <mxCell id="p82O2CqZSxfGQg2NTd5P-65" value="活动状态流转" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;dashed=1;strokeColor=#FF8000;fontStyle=1" vertex="1" parent="p82O2CqZSxfGQg2NTd5P-70">
-          <mxGeometry y="15.856976744186047" width="100" height="36.593023255813954" as="geometry" />
+          <mxGeometry y="21.62837209302326" width="100" height="49.91162790697675" as="geometry" />
         </mxCell>
         <mxCell id="p82O2CqZSxfGQg2NTd5P-71" value="&lt;ul&gt;&lt;li&gt;&lt;span&gt;活动创建&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;活动任务创建&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;活动事件生成&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;dashed=1;strokeColor=#FF8000;fontStyle=1;align=left;" vertex="1" parent="p82O2CqZSxfGQg2NTd5P-85">
-          <mxGeometry x="52" y="68.13999999999999" width="135" height="66.95" as="geometry" />
+          <mxGeometry x="52" y="60" width="135" height="75.09" as="geometry" />
         </mxCell>
         <mxCell id="p82O2CqZSxfGQg2NTd5P-72" value="&lt;ul&gt;&lt;li&gt;权益呈现&lt;/li&gt;&lt;li&gt;权益生成&lt;/li&gt;&lt;li&gt;权益提现&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;dashed=1;strokeColor=#FF8000;fontStyle=1;align=left;verticalAlign=middle;" vertex="1" parent="p82O2CqZSxfGQg2NTd5P-85">
           <mxGeometry x="52" y="145.09000000000003" width="110" height="66" as="geometry" />
@@ -2413,14 +2413,14 @@
         <mxCell id="p82O2CqZSxfGQg2NTd5P-81" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;strokeWidth=1;fillColor=#ffe6cc;fontSize=14;fontColor=#999999;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FF8000;" edge="1" parent="p82O2CqZSxfGQg2NTd5P-85" source="p82O2CqZSxfGQg2NTd5P-65" target="p82O2CqZSxfGQg2NTd5P-72">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="p82O2CqZSxfGQg2NTd5P-86" value="" style="html=1;shadow=0;dashed=1;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.65;dx=22;rounded=1;labelBackgroundColor=none;strokeColor=#000000;fillColor=none;gradientColor=none;fontColor=#000000;flipV=1;flipH=0;direction=south;" vertex="1" parent="p82O2CqZSxfGQg2NTd5P-85">
+        <mxCell id="p82O2CqZSxfGQg2NTd5P-86" value="" style="html=1;shadow=0;dashed=1;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.65;dx=22;rounded=1;labelBackgroundColor=none;fillColor=none;gradientColor=none;fontColor=#000000;flipV=1;flipH=0;direction=south;strokeColor=#FF8000;" vertex="1" parent="p82O2CqZSxfGQg2NTd5P-85">
           <mxGeometry x="10" width="30" height="226" as="geometry" />
         </mxCell>
         <mxCell id="p82O2CqZSxfGQg2NTd5P-87" value="准入策略" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeColor=none;" vertex="1" parent="p82O2CqZSxfGQg2NTd5P-85">
           <mxGeometry x="51.99532319391642" y="32.138235294117635" width="68.13688212927757" height="19.607843137254903" as="geometry" />
         </mxCell>
-        <mxCell id="p82O2CqZSxfGQg2NTd5P-88" value="人群圈选" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeColor=none;" vertex="1" parent="p82O2CqZSxfGQg2NTd5P-85">
-          <mxGeometry x="131.99532319391642" y="32.138235294117635" width="68.13688212927757" height="19.607843137254903" as="geometry" />
+        <mxCell id="p82O2CqZSxfGQg2NTd5P-88" value="特征人群圈选" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeColor=none;" vertex="1" parent="p82O2CqZSxfGQg2NTd5P-85">
+          <mxGeometry x="132" y="32.14" width="98" height="19.61" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
