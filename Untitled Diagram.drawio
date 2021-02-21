@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-21T04:52:09.732Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="Q9UDw96fGjnS4PsU7n_g" version="14.4.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-02-21T05:09:44.269Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="WHkz64GnUi9mc1IdKVUz" version="14.4.2" type="github" pages="3">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="活动中心">
     <mxGraphModel dx="932" dy="532" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -2563,6 +2563,30 @@
         </mxCell>
         <mxCell id="p82O2CqZSxfGQg2NTd5P-153" value="" style="html=1;shadow=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.65;dx=22;rounded=1;labelBackgroundColor=none;flipV=1;flipH=0;direction=south;strokeWidth=1;fillColor=#eeeeee;strokeColor=none;" parent="qByU_daSto3n52-RcJlF-11" vertex="1">
           <mxGeometry x="20.440000000000055" y="19.75" width="20" height="50.46" as="geometry" />
+        </mxCell>
+        <mxCell id="qByU_daSto3n52-RcJlF-12" value="S大促—状态机实现" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=20;fontStyle=1;fontColor=#FF8000;" vertex="1" parent="rfalXjpCReByq5IYMZaH-1">
+          <mxGeometry x="911" y="2256" width="183" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="qByU_daSto3n52-RcJlF-13" value="S大促—收益" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=20;fontStyle=1;fontColor=#FF8000;" vertex="1" parent="rfalXjpCReByq5IYMZaH-1">
+          <mxGeometry x="921" y="2602" width="123" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="qByU_daSto3n52-RcJlF-14" value="业务收益" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=20;fontColor=#FF8000;" vertex="1" parent="rfalXjpCReByq5IYMZaH-1">
+          <mxGeometry x="921" y="2652" width="90" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="qByU_daSto3n52-RcJlF-15" value="系统产出" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=20;fontColor=#FF8000;" vertex="1" parent="rfalXjpCReByq5IYMZaH-1">
+          <mxGeometry x="1204" y="2652" width="90" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="qByU_daSto3n52-RcJlF-16" value="&lt;ul style=&quot;line-height: 170%&quot;&gt;&lt;li&gt;活动10天，参与人数189万人&lt;/li&gt;&lt;li&gt;完成授信1W+，完成支用1W+，&lt;/li&gt;&lt;li&gt;成本16W+，支用本金1.12亿，费效比：0.14%&lt;/li&gt;&lt;/ul&gt;" style="text;whiteSpace=wrap;html=1;fontSize=14;spacingTop=-15;spacingLeft=-15;" vertex="1" parent="rfalXjpCReByq5IYMZaH-1">
+          <mxGeometry x="914" y="2707" width="253" height="99" as="geometry" />
+        </mxCell>
+        <mxCell id="qByU_daSto3n52-RcJlF-17" value="&lt;p style=&quot;line-height: 170%&quot;&gt;&lt;/p&gt;&lt;ul style=&quot;line-height: 170%&quot;&gt;&lt;li&gt;任务完成情况：&lt;/li&gt;&lt;li&gt;新客授信率2.3%，支用率20%&lt;/li&gt;&lt;li&gt;老客首支率仅8%&lt;/li&gt;&lt;li&gt;老客复支率最高，达到50%&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;fontSize=14;spacingTop=-15;spacingLeft=-15;" vertex="1" parent="rfalXjpCReByq5IYMZaH-1">
+          <mxGeometry x="916" y="2815" width="219" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="qByU_daSto3n52-RcJlF-18" value="&lt;ul style=&quot;line-height: 170%&quot;&gt;&lt;li&gt;&lt;span&gt;大促申支率11%，非大促4%，提升7%&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;活动组环比对照组，人均支用额提升23%&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;转化率增加160，活动ROI较高达到10.2&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;whiteSpace=wrap;html=1;fontSize=14;spacingTop=-15;spacingLeft=-15;" vertex="1" parent="rfalXjpCReByq5IYMZaH-1">
+          <mxGeometry x="916" y="2924" width="280" height="79" as="geometry" />
+        </mxCell>
+        <mxCell id="qByU_daSto3n52-RcJlF-19" value="&lt;ul style=&quot;line-height: 170%&quot;&gt;&lt;li&gt;探索积累营销经验，更多运营抓手&lt;/li&gt;&lt;li&gt;沉淀活动标准化能力，并可复用&lt;/li&gt;&lt;/ul&gt;" style="text;whiteSpace=wrap;html=1;fontSize=14;spacingTop=-15;spacingLeft=-15;" vertex="1" parent="rfalXjpCReByq5IYMZaH-1">
+          <mxGeometry x="1200" y="2707" width="248" height="56" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
