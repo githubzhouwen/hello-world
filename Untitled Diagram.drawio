@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-21T13:49:48.341Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="je2Ahcfq8R6xPVKVzf1J" version="14.4.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-02-21T13:51:53.048Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="Z5SI9CfHHz40N9uKvDq2" version="14.4.2" type="github" pages="3">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="活动中心">
     <mxGraphModel dx="932" dy="532" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -2318,7 +2318,7 @@
           <mxGeometry x="268.1437467700259" y="5.45" width="74" height="27" as="geometry" />
         </mxCell>
         <mxCell id="p82O2CqZSxfGQg2NTd5P-144" value="&lt;ul&gt;&lt;li&gt;&lt;span&gt;&lt;font color=&quot;#cc6600&quot;&gt;活动、任务、事件、权益配置&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;&lt;font color=&quot;#cc6600&quot;&gt;用户活动参与&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;&lt;font color=&quot;#cc6600&quot;&gt;活动事件生成&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;dashed=1;strokeColor=#FF8000;fontStyle=0;align=left;spacingLeft=-15;" parent="qByU_daSto3n52-RcJlF-10" vertex="1">
-          <mxGeometry x="25.44" y="39.8" width="148.43" height="76.2" as="geometry" />
+          <mxGeometry x="25.44" y="41.8" width="153.56" height="76.2" as="geometry" />
         </mxCell>
         <mxCell id="p82O2CqZSxfGQg2NTd5P-145" value="&lt;ul&gt;&lt;li&gt;&lt;font style=&quot;font-weight: normal&quot; color=&quot;#cc6600&quot;&gt;权益呈现&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-weight: normal&quot; color=&quot;#cc6600&quot;&gt;权益生成&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-weight: normal&quot; color=&quot;#cc6600&quot;&gt;权益提现&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;dashed=1;strokeColor=#FF8000;fontStyle=1;align=left;verticalAlign=middle;spacingLeft=-15;" parent="qByU_daSto3n52-RcJlF-10" vertex="1">
           <mxGeometry x="25.44" y="130.09" width="106.02" height="59.91" as="geometry" />
@@ -2329,10 +2329,10 @@
         <mxCell id="p82O2CqZSxfGQg2NTd5P-147" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;strokeWidth=1;fillColor=#ffe6cc;fontSize=14;fontColor=#999999;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FF8000;" parent="qByU_daSto3n52-RcJlF-10" source="p82O2CqZSxfGQg2NTd5P-143" target="p82O2CqZSxfGQg2NTd5P-145" edge="1">
           <mxGeometry x="-24.674418604651123" y="-20" as="geometry" />
         </mxCell>
-        <mxCell id="p82O2CqZSxfGQg2NTd5P-149" value="准入策略" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeColor=none;fontColor=#CC6600;" parent="qByU_daSto3n52-RcJlF-10" vertex="1">
+        <mxCell id="p82O2CqZSxfGQg2NTd5P-149" value="准入策略" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeColor=none;fontColor=#4D4D4D;" parent="qByU_daSto3n52-RcJlF-10" vertex="1">
           <mxGeometry x="20.65699108871013" y="9.138235294117521" width="65.67198200056986" height="19.60784313725491" as="geometry" />
         </mxCell>
-        <mxCell id="p82O2CqZSxfGQg2NTd5P-150" value="&lt;font&gt;特征人群圈选&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeColor=none;fontColor=#CC6600;" parent="qByU_daSto3n52-RcJlF-10" vertex="1">
+        <mxCell id="p82O2CqZSxfGQg2NTd5P-150" value="&lt;font&gt;特征人群圈选&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeColor=none;fontColor=#4D4D4D;" parent="qByU_daSto3n52-RcJlF-10" vertex="1">
           <mxGeometry x="125.68217054263573" y="9.1400000000001" width="94.4547803617571" height="19.610000000000007" as="geometry" />
         </mxCell>
         <mxCell id="p82O2CqZSxfGQg2NTd5P-140" value="" style="group;fontSize=14;fontStyle=1" parent="qByU_daSto3n52-RcJlF-10" vertex="1" connectable="0">
