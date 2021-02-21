@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-21T02:41:34.865Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="vL3TkmTVuOaeR-6A37_l" version="14.3.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-02-21T02:41:54.837Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="GzK04nnjdKMFC1A9mnFN" version="14.3.2" type="github" pages="3">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="活动中心">
     <mxGraphModel dx="932" dy="532" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -2393,13 +2393,13 @@
           <mxGeometry x="911" y="1354" width="90" height="28" as="geometry" />
         </mxCell>
         <mxCell id="p82O2CqZSxfGQg2NTd5P-94" value="我的工作" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=20;fontColor=#FF8000;" vertex="1" parent="rfalXjpCReByq5IYMZaH-1">
-          <mxGeometry x="1245" y="1354" width="90" height="28" as="geometry" />
+          <mxGeometry x="1228" y="1354" width="90" height="28" as="geometry" />
         </mxCell>
         <mxCell id="p82O2CqZSxfGQg2NTd5P-96" value="&lt;ul style=&quot;line-height: 170%&quot;&gt;&lt;li style=&quot;font-size: 16px&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-size: 16px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: left ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;&lt;font&gt;依托平台大流量，尝试信贷&lt;font color=&quot;#ff0000&quot;&gt;用户拉新、复支玩法突破，&lt;/font&gt;&lt;/font&gt;&lt;/span&gt;验证活动可行性&lt;/li&gt;&lt;li style=&quot;font-size: 16px&quot;&gt;将权益组合投放，梯度测试，促拉新、复支的同时，寻找产出平衡&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;助力信贷年底目标，贷余200亿&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;whiteSpace=wrap;html=1;fontSize=16;verticalAlign=middle;fontColor=#4D4D4D;spacing=0;spacingTop=-16;spacingBottom=-5;spacingLeft=-15;" vertex="1" parent="rfalXjpCReByq5IYMZaH-1">
           <mxGeometry x="911" y="1392" width="305" height="156" as="geometry" />
         </mxCell>
         <mxCell id="p82O2CqZSxfGQg2NTd5P-100" value="&lt;ul style=&quot;line-height: 170%&quot;&gt;&lt;li&gt;技术方案设计&lt;/li&gt;&lt;li&gt;负责项目推进完成，参与50%开发工作&lt;/li&gt;&lt;li&gt;跨多团队协调各方资源&lt;/li&gt;&lt;li&gt;封闭加班3周+，保障项目顺利上线&lt;/li&gt;&lt;/ul&gt;" style="text;whiteSpace=wrap;html=1;fontSize=16;fontColor=#4D4D4D;spacingLeft=-15;spacingTop=-16;verticalAlign=middle;spacingBottom=-5;spacing=0;" vertex="1" parent="rfalXjpCReByq5IYMZaH-1">
-          <mxGeometry x="1245" y="1392" width="318" height="118" as="geometry" />
+          <mxGeometry x="1228" y="1392" width="318" height="118" as="geometry" />
         </mxCell>
         <mxCell id="p82O2CqZSxfGQg2NTd5P-101" value="S大促—项目挑战" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=20;fontStyle=1;fontColor=#FF8000;" vertex="1" parent="rfalXjpCReByq5IYMZaH-1">
           <mxGeometry x="914" y="1563" width="163" height="28" as="geometry" />
