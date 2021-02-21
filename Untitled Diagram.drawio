@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-21T04:38:13.310Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="pm5Wk7evvo28kh3L7EIE" version="14.4.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-02-21T04:38:40.003Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="9fnn4OMZQ20njsHCjqp8" version="14.4.2" type="github" pages="3">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="活动中心">
     <mxGraphModel dx="932" dy="532" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -2006,7 +2006,7 @@
           <mxGeometry x="43" y="39.8" width="154" height="72.2" as="geometry" />
         </mxCell>
         <mxCell id="p82O2CqZSxfGQg2NTd5P-145" value="&lt;ul&gt;&lt;li&gt;&lt;font style=&quot;font-weight: normal&quot; color=&quot;#cc6600&quot;&gt;权益呈现&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-weight: normal&quot; color=&quot;#cc6600&quot;&gt;权益生成&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-weight: normal&quot; color=&quot;#cc6600&quot;&gt;权益提现&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;dashed=1;strokeColor=#FF8000;fontStyle=1;align=left;verticalAlign=middle;spacingLeft=-15;" parent="p82O2CqZSxfGQg2NTd5P-158" vertex="1">
-          <mxGeometry x="43" y="130.09" width="110" height="52.91" as="geometry" />
+          <mxGeometry x="43" y="130.09" width="110" height="55.91" as="geometry" />
         </mxCell>
         <mxCell id="p82O2CqZSxfGQg2NTd5P-146" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;strokeWidth=1;fillColor=#ffe6cc;fontSize=10;fontColor=#999999;entryX=1.007;entryY=0.876;entryDx=0;entryDy=0;strokeColor=#FF8000;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryPerimeter=0;" parent="p82O2CqZSxfGQg2NTd5P-158" source="p82O2CqZSxfGQg2NTd5P-143" target="p82O2CqZSxfGQg2NTd5P-144" edge="1">
           <mxGeometry x="-9" y="-20" as="geometry" />
