@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-21T02:32:07.049Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="49qQn6smZuWldqcCnboP" version="14.3.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-02-21T02:33:21.938Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="NBqt6RT5GjJEVUSrVu5n" version="14.3.2" type="github" pages="3">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="活动中心">
     <mxGraphModel dx="932" dy="532" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -2383,8 +2383,8 @@
         <mxCell id="p82O2CqZSxfGQg2NTd5P-88" value="特征人群圈选" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeColor=none;" vertex="1" parent="p82O2CqZSxfGQg2NTd5P-85">
           <mxGeometry x="132" y="32.14" width="98" height="19.61" as="geometry" />
         </mxCell>
-        <mxCell id="p82O2CqZSxfGQg2NTd5P-90" value="营销S大促介绍" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=20;fontColor=#999999;fontStyle=1" vertex="1" parent="rfalXjpCReByq5IYMZaH-1">
-          <mxGeometry x="914" y="1243" width="143" height="28" as="geometry" />
+        <mxCell id="p82O2CqZSxfGQg2NTd5P-90" value="2、营销S大促介绍" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=20;fontColor=#999999;fontStyle=1" vertex="1" parent="rfalXjpCReByq5IYMZaH-1">
+          <mxGeometry x="914" y="1245" width="174" height="28" as="geometry" />
         </mxCell>
         <mxCell id="p82O2CqZSxfGQg2NTd5P-91" value="S大促—项目背景" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=20;fontStyle=1;fontColor=#FF8000;" vertex="1" parent="rfalXjpCReByq5IYMZaH-1">
           <mxGeometry x="911" y="1309" width="163" height="28" as="geometry" />
@@ -2400,6 +2400,9 @@
         </mxCell>
         <mxCell id="p82O2CqZSxfGQg2NTd5P-100" value="&lt;ul style=&quot;line-height: 170%&quot;&gt;&lt;li&gt;技术方案设计&lt;/li&gt;&lt;li&gt;负责项目推进完成，参与50%开发工作&lt;/li&gt;&lt;li&gt;跨多团队协调各方资源&lt;/li&gt;&lt;li&gt;封闭加班3周+，项目顺利上线&lt;/li&gt;&lt;/ul&gt;" style="text;whiteSpace=wrap;html=1;fontSize=16;fontColor=#4D4D4D;spacingLeft=-5;spacingTop=-16;" vertex="1" parent="rfalXjpCReByq5IYMZaH-1">
           <mxGeometry x="1240" y="1392" width="318" height="118" as="geometry" />
+        </mxCell>
+        <mxCell id="p82O2CqZSxfGQg2NTd5P-101" value="S大促—项目挑战" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=20;fontStyle=1;fontColor=#FF8000;" vertex="1" parent="rfalXjpCReByq5IYMZaH-1">
+          <mxGeometry x="914" y="1563" width="163" height="28" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
