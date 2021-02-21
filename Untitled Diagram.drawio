@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-21T13:20:05.043Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="Tx-G1JrgqM9F8SR7kDtV" version="14.4.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-02-21T13:23:50.451Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="6qyYIkqLqiJeyahmAeal" version="14.4.2" type="github" pages="3">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="活动中心">
     <mxGraphModel dx="932" dy="532" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -2278,7 +2278,7 @@
         <mxCell id="p82O2CqZSxfGQg2NTd5P-101" value="S大促—项目挑战" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=20;fontStyle=1;fontColor=#FF8000;" parent="rfalXjpCReByq5IYMZaH-1" vertex="1">
           <mxGeometry x="914" y="1563" width="163" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="p82O2CqZSxfGQg2NTd5P-103" value="&lt;ul style=&quot;line-height: 170%&quot;&gt;&lt;li&gt;流量大，保障服务稳定高可用&lt;/li&gt;&lt;li&gt;涉及信贷实名、授信、借款全流程、7个模块调整&lt;/li&gt;&lt;li&gt;解耦活动与信贷业务，降低侵入&lt;/li&gt;&lt;li&gt;将活动流程与数据标准化，沉淀基础能力，活动可复用&lt;/li&gt;&lt;/ul&gt;" style="text;whiteSpace=wrap;html=1;fontSize=16;fontColor=#4D4D4D;spacingTop=-15;spacingLeft=-15;" parent="rfalXjpCReByq5IYMZaH-1" vertex="1">
+        <mxCell id="p82O2CqZSxfGQg2NTd5P-103" value="&lt;ul style=&quot;line-height: 170%&quot;&gt;&lt;li&gt;流量大，稳定高可用&lt;/li&gt;&lt;li&gt;涉及信贷实名、授信、借款全流程、7个模块调整&lt;/li&gt;&lt;li&gt;解耦活动与信贷业务，降低侵入&lt;/li&gt;&lt;li&gt;将活动流程与数据标准化，沉淀基础能力，活动可复用&lt;/li&gt;&lt;/ul&gt;" style="text;whiteSpace=wrap;html=1;fontSize=16;fontColor=#4D4D4D;spacingTop=-15;spacingLeft=-15;" parent="rfalXjpCReByq5IYMZaH-1" vertex="1">
           <mxGeometry x="914" y="1658" width="286" height="174" as="geometry" />
         </mxCell>
         <mxCell id="p82O2CqZSxfGQg2NTd5P-105" value="技术挑战" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=20;fontColor=#FF8000;" parent="rfalXjpCReByq5IYMZaH-1" vertex="1">
@@ -2302,7 +2302,7 @@
         <mxCell id="qByU_daSto3n52-RcJlF-3" value="核心思想" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=20;fontColor=#FF8000;" parent="rfalXjpCReByq5IYMZaH-1" vertex="1">
           <mxGeometry x="917" y="2298" width="90" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="qByU_daSto3n52-RcJlF-4" value="&lt;ul style=&quot;line-height: 170%; font-size: 14px;&quot;&gt;&lt;li style=&quot;font-size: 14px;&quot;&gt;业务流转消息驱动状态变化，将活动与业务解耦&lt;/li&gt;&lt;li style=&quot;font-size: 14px;&quot;&gt;MQ+状态模式+策略模式&lt;/li&gt;&lt;li style=&quot;font-size: 14px;&quot;&gt;唯一键 + 分布式锁保证活动参与及提现幂等&lt;/li&gt;&lt;li style=&quot;font-size: 14px;&quot;&gt;人群圈选+灰度策略+防刷黑名单策略&lt;/li&gt;&lt;li style=&quot;font-size: 14px;&quot;&gt;限流+分表+兜底+压测&lt;/li&gt;&lt;li style=&quot;font-size: 14px;&quot;&gt;数据分析Publiclog-&amp;gt;Hive、ES&lt;/li&gt;&lt;/ul&gt;" style="text;whiteSpace=wrap;html=1;spacingTop=-15;spacingLeft=-15;fontSize=14;" parent="rfalXjpCReByq5IYMZaH-1" vertex="1">
+        <mxCell id="qByU_daSto3n52-RcJlF-4" value="&lt;ul style=&quot;line-height: 170% ; font-size: 14px&quot;&gt;&lt;li style=&quot;font-size: 14px&quot;&gt;业务流转消息驱动状态变化，将活动与业务解耦&lt;/li&gt;&lt;li style=&quot;font-size: 14px&quot;&gt;MQ+状态模式+策略模式&lt;/li&gt;&lt;li style=&quot;font-size: 14px&quot;&gt;唯一键、分布式锁实现幂等&lt;/li&gt;&lt;li style=&quot;font-size: 14px&quot;&gt;人群、灰度、防刷黑名单策略&lt;/li&gt;&lt;li style=&quot;font-size: 14px&quot;&gt;限流、分表、兜底、压测&lt;/li&gt;&lt;li style=&quot;font-size: 14px&quot;&gt;数据分析Publiclog-&amp;gt;Hive、ES&lt;/li&gt;&lt;/ul&gt;" style="text;whiteSpace=wrap;html=1;spacingTop=-15;spacingLeft=-15;fontSize=14;" parent="rfalXjpCReByq5IYMZaH-1" vertex="1">
           <mxGeometry x="911" y="2434" width="325" height="146" as="geometry" />
         </mxCell>
         <mxCell id="qByU_daSto3n52-RcJlF-11" value="" style="group" parent="rfalXjpCReByq5IYMZaH-1" vertex="1" connectable="0">
@@ -2453,7 +2453,7 @@
         <mxCell id="qByU_daSto3n52-RcJlF-15" value="系统产出" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=20;fontColor=#FF8000;" parent="rfalXjpCReByq5IYMZaH-1" vertex="1">
           <mxGeometry x="1204" y="2652" width="90" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="qByU_daSto3n52-RcJlF-16" value="&lt;ul style=&quot;line-height: 170%&quot;&gt;&lt;li&gt;活动10天，参与人数189万人、完成授信、支用2W+，&lt;/li&gt;&lt;li&gt;成本16W+，支用本金1.12亿，费效比：0.14%&lt;/li&gt;&lt;/ul&gt;" style="text;whiteSpace=wrap;html=1;fontSize=14;spacingTop=-15;spacingLeft=-15;" parent="rfalXjpCReByq5IYMZaH-1" vertex="1">
+        <mxCell id="qByU_daSto3n52-RcJlF-16" value="&lt;ul style=&quot;line-height: 170%&quot;&gt;&lt;li&gt;Day10，参与人数189万人、完成授信、支用2W+，&lt;/li&gt;&lt;li&gt;成本16W+，支用本金1.12亿，费效比：0.14%&lt;/li&gt;&lt;/ul&gt;" style="text;whiteSpace=wrap;html=1;fontSize=14;spacingTop=-15;spacingLeft=-15;" parent="rfalXjpCReByq5IYMZaH-1" vertex="1">
           <mxGeometry x="917" y="2686" width="253" height="99" as="geometry" />
         </mxCell>
         <mxCell id="qByU_daSto3n52-RcJlF-17" value="&lt;p style=&quot;line-height: 170%&quot;&gt;&lt;/p&gt;&lt;ul style=&quot;line-height: 170%&quot;&gt;&lt;li&gt;新客授信率2.3%，支用率20%&lt;/li&gt;&lt;li&gt;老客首支率仅8%&lt;/li&gt;&lt;li&gt;老客复支率最高，达到50%&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;fontSize=14;spacingTop=-15;spacingLeft=-15;" parent="rfalXjpCReByq5IYMZaH-1" vertex="1">
@@ -2598,7 +2598,7 @@
           <mxGeometry x="132" y="32.14" width="98" height="19.61" as="geometry" />
         </mxCell>
         <mxCell id="v3G-N23f5PawXFnsWx30-0" value="" style="ellipse;html=1;shape=endState;fontColor=#333333;fillColor=#000000;strokeColor=#FF0000;" vertex="1" parent="rfalXjpCReByq5IYMZaH-1">
-          <mxGeometry x="1609" y="2487" width="30" height="30" as="geometry" />
+          <mxGeometry x="1607" y="2487" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="v3G-N23f5PawXFnsWx30-1" value="" style="ellipse;html=1;shape=startState;direction=north;fontColor=#333333;fillColor=#000000;strokeColor=#FF0000;" vertex="1" parent="rfalXjpCReByq5IYMZaH-1">
           <mxGeometry x="1275.5" y="2312" width="30" height="30" as="geometry" />
@@ -2834,6 +2834,9 @@
         </mxCell>
         <mxCell id="v3G-N23f5PawXFnsWx30-62" value="end" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=8;fontColor=#808080;" vertex="1" parent="rfalXjpCReByq5IYMZaH-1">
           <mxGeometry x="1609" y="2517" width="30" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="v3G-N23f5PawXFnsWx30-63" value="&lt;ul style=&quot;line-height: 170%; font-size: 14px;&quot;&gt;&lt;li style=&quot;font-size: 14px;&quot;&gt;业务流转消息驱动状态变化，将活动与业务解耦&lt;/li&gt;&lt;li style=&quot;font-size: 14px;&quot;&gt;MQ+状态模式+策略模式&lt;/li&gt;&lt;li style=&quot;font-size: 14px;&quot;&gt;唯一键 + 分布式锁保证活动参与及提现幂等&lt;/li&gt;&lt;li style=&quot;font-size: 14px;&quot;&gt;人群圈选+灰度策略+防刷黑名单策略&lt;/li&gt;&lt;li style=&quot;font-size: 14px;&quot;&gt;限流+分表+兜底+压测&lt;/li&gt;&lt;li style=&quot;font-size: 14px;&quot;&gt;数据分析Publiclog-&amp;gt;Hive、ES&lt;/li&gt;&lt;/ul&gt;" style="text;whiteSpace=wrap;html=1;spacingTop=-15;spacingLeft=-15;fontSize=14;" vertex="1" parent="rfalXjpCReByq5IYMZaH-1">
+          <mxGeometry x="1729" y="2405" width="325" height="146" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
