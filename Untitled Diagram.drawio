@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-21T02:52:24.566Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="0nzxSury1axoYzXXD0TK" version="14.3.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-02-21T02:57:40.088Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="3NP_Gx1-DYsuZF4IoYVk" version="14.3.2" type="github" pages="3">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="活动中心">
     <mxGraphModel dx="932" dy="532" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -2404,14 +2404,17 @@
         <mxCell id="p82O2CqZSxfGQg2NTd5P-101" value="S大促—项目挑战" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=20;fontStyle=1;fontColor=#FF8000;" vertex="1" parent="rfalXjpCReByq5IYMZaH-1">
           <mxGeometry x="914" y="1563" width="163" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="p82O2CqZSxfGQg2NTd5P-103" value="&lt;ul style=&quot;line-height: 170%&quot;&gt;&lt;li&gt;流量大，保障服务高可用&lt;/li&gt;&lt;li&gt;涉及信贷实名、授信、借款全流程、7个模块调整&lt;/li&gt;&lt;li&gt;解耦活动与信贷业务，降低对业务系统侵入&lt;/li&gt;&lt;li&gt;将活动流程与数据标准化，沉淀为基础能力，同类活动可复用&lt;/li&gt;&lt;/ul&gt;" style="text;whiteSpace=wrap;html=1;fontSize=16;fontColor=#4D4D4D;spacingTop=-15;spacingLeft=-15;" vertex="1" parent="rfalXjpCReByq5IYMZaH-1">
-          <mxGeometry x="914" y="1658" width="286" height="204" as="geometry" />
+        <mxCell id="p82O2CqZSxfGQg2NTd5P-103" value="&lt;ul style=&quot;line-height: 170%&quot;&gt;&lt;li&gt;流量大，保障服务稳定高可用&lt;/li&gt;&lt;li&gt;涉及信贷实名、授信、借款全流程、7个模块调整&lt;/li&gt;&lt;li&gt;解耦活动与信贷业务，降低侵入&lt;/li&gt;&lt;li&gt;将活动流程与数据标准化，沉淀基础能力，活动可复用&lt;/li&gt;&lt;/ul&gt;" style="text;whiteSpace=wrap;html=1;fontSize=16;fontColor=#4D4D4D;spacingTop=-15;spacingLeft=-15;" vertex="1" parent="rfalXjpCReByq5IYMZaH-1">
+          <mxGeometry x="914" y="1658" width="286" height="174" as="geometry" />
         </mxCell>
         <mxCell id="p82O2CqZSxfGQg2NTd5P-105" value="技术挑战" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=20;fontColor=#FF8000;" vertex="1" parent="rfalXjpCReByq5IYMZaH-1">
           <mxGeometry x="914" y="1614" width="90" height="28" as="geometry" />
         </mxCell>
         <mxCell id="p82O2CqZSxfGQg2NTd5P-106" value="业务挑战" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=20;fontColor=#FF8000;" vertex="1" parent="rfalXjpCReByq5IYMZaH-1">
           <mxGeometry x="1238" y="1614" width="90" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="p82O2CqZSxfGQg2NTd5P-107" value="&lt;ul style=&quot;line-height: 170%&quot;&gt;&lt;li&gt;年度大促、P0倒排期&lt;/li&gt;&lt;li&gt;开发周期短、人力资源紧&lt;/li&gt;&lt;li&gt;需沟通团队、协调资源多&lt;/li&gt;&lt;/ul&gt;" style="text;whiteSpace=wrap;html=1;fontSize=16;fontColor=#4D4D4D;spacingTop=-15;spacingLeft=-15;" vertex="1" parent="rfalXjpCReByq5IYMZaH-1">
+          <mxGeometry x="1238" y="1658" width="286" height="95" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
