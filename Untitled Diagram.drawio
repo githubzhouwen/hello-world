@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-21T12:00:49.845Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="wbR1FmXwa9JDVBHDi7Rn" version="14.4.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-02-21T12:02:15.828Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="y4V9c1A_sH0R9J8pJMZD" version="14.4.2" type="github" pages="3">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="活动中心">
     <mxGraphModel dx="932" dy="532" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -2577,22 +2577,22 @@
           <mxGeometry x="1204" y="2652" width="90" height="28" as="geometry" />
         </mxCell>
         <mxCell id="qByU_daSto3n52-RcJlF-16" value="&lt;ul style=&quot;line-height: 170%&quot;&gt;&lt;li&gt;活动10天，参与人数189万人、完成授信、支用2W+，&lt;/li&gt;&lt;li&gt;成本16W+，支用本金1.12亿，费效比：0.14%&lt;/li&gt;&lt;/ul&gt;" style="text;whiteSpace=wrap;html=1;fontSize=14;spacingTop=-15;spacingLeft=-15;" vertex="1" parent="rfalXjpCReByq5IYMZaH-1">
-          <mxGeometry x="914" y="2707" width="253" height="99" as="geometry" />
+          <mxGeometry x="917" y="2686" width="253" height="99" as="geometry" />
         </mxCell>
         <mxCell id="qByU_daSto3n52-RcJlF-17" value="&lt;p style=&quot;line-height: 170%&quot;&gt;&lt;/p&gt;&lt;ul style=&quot;line-height: 170%&quot;&gt;&lt;li&gt;新客授信率2.3%，支用率20%&lt;/li&gt;&lt;li&gt;老客首支率仅8%&lt;/li&gt;&lt;li&gt;老客复支率最高，达到50%&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;fontSize=14;spacingTop=-15;spacingLeft=-15;" vertex="1" parent="rfalXjpCReByq5IYMZaH-1">
-          <mxGeometry x="914" y="2821" width="219" height="77" as="geometry" />
+          <mxGeometry x="917" y="2800" width="219" height="77" as="geometry" />
         </mxCell>
         <mxCell id="qByU_daSto3n52-RcJlF-18" value="&lt;ul style=&quot;line-height: 170%&quot;&gt;&lt;li&gt;&lt;span&gt;大促11% VS 非大促4%，申支率提升7%&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;活动组 VS 对照组，环比人均支用额提升23%&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;转化率增加160，活动ROI较高达到10.2&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;whiteSpace=wrap;html=1;fontSize=14;spacingTop=-15;spacingLeft=-15;" vertex="1" parent="rfalXjpCReByq5IYMZaH-1">
-          <mxGeometry x="914" y="2910" width="312" height="79" as="geometry" />
+          <mxGeometry x="917" y="2889" width="312" height="79" as="geometry" />
         </mxCell>
         <mxCell id="qByU_daSto3n52-RcJlF-19" value="&lt;ul style=&quot;line-height: 170%&quot;&gt;&lt;li&gt;探索积累营销经验，提供更多运营抓手&lt;/li&gt;&lt;li&gt;沉淀活动标准化能力，并可复用&lt;/li&gt;&lt;/ul&gt;" style="text;whiteSpace=wrap;html=1;fontSize=14;spacingTop=-15;spacingLeft=-15;" vertex="1" parent="rfalXjpCReByq5IYMZaH-1">
-          <mxGeometry x="1200" y="2707" width="268" height="58" as="geometry" />
+          <mxGeometry x="1203" y="2686" width="268" height="58" as="geometry" />
         </mxCell>
         <mxCell id="qByU_daSto3n52-RcJlF-20" value="&lt;ul style=&quot;line-height: 170%&quot;&gt;&lt;li&gt;收敛百行、互金数据上报，将数据计算逻辑下沉，统一数据源，简化上报逻辑&lt;/li&gt;&lt;li&gt;将活动分类梳理设计，抽象出活动与权益中心，下沉为独立微服务&lt;/li&gt;&lt;li&gt;持续提升架构能力&lt;/li&gt;&lt;/ul&gt;" style="text;whiteSpace=wrap;html=1;fontSize=14;spacingTop=-15;spacingLeft=-15;" vertex="1" parent="rfalXjpCReByq5IYMZaH-1">
-          <mxGeometry x="921" y="3061" width="515" height="80" as="geometry" />
+          <mxGeometry x="921" y="3047" width="515" height="80" as="geometry" />
         </mxCell>
         <mxCell id="qByU_daSto3n52-RcJlF-21" value="未来工作规划" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=20;fontStyle=1;fontColor=#FF8000;" vertex="1" parent="rfalXjpCReByq5IYMZaH-1">
-          <mxGeometry x="921" y="3011" width="130" height="28" as="geometry" />
+          <mxGeometry x="921" y="3003" width="130" height="28" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
