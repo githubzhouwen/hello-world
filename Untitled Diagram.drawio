@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-21T04:28:11.333Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="DlcPWbmjSJHGp9hBBT5r" version="14.4.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-02-21T04:28:26.591Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="Y4XEjkPdijfo-TXmSnId" version="14.4.2" type="github" pages="3">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="活动中心">
     <mxGraphModel dx="932" dy="532" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -2555,7 +2555,7 @@
           <mxGeometry x="930" y="2298" width="90" height="28" as="geometry" />
         </mxCell>
         <mxCell id="qByU_daSto3n52-RcJlF-4" value="&lt;ul style=&quot;line-height: 170%; font-size: 16px;&quot;&gt;&lt;li style=&quot;font-size: 16px;&quot;&gt;业务流转通过消息驱动状态变化，将活动与业务解耦&lt;/li&gt;&lt;li style=&quot;font-size: 16px;&quot;&gt;MQ+状态模式+策略模式&lt;/li&gt;&lt;li style=&quot;font-size: 16px;&quot;&gt;唯一键 + 分布式锁保证活动参与及提现幂等&lt;/li&gt;&lt;li style=&quot;font-size: 16px;&quot;&gt;人群圈选+灰度策略+防刷黑名单策略&lt;/li&gt;&lt;li style=&quot;font-size: 16px;&quot;&gt;限流+分表+兜底+压测&lt;/li&gt;&lt;li style=&quot;font-size: 16px;&quot;&gt;数据分析Publiclog-&amp;gt;Hive、ES&lt;/li&gt;&lt;/ul&gt;" style="text;whiteSpace=wrap;html=1;spacingTop=-15;spacingLeft=-15;fontSize=16;" vertex="1" parent="rfalXjpCReByq5IYMZaH-1">
-          <mxGeometry x="925" y="2434" width="405" height="172" as="geometry" />
+          <mxGeometry x="925" y="2434" width="405" height="175" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
