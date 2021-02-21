@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-21T03:55:32.118Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="3cvFXT2ZtDCk0855VYG4" version="14.3.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-02-21T03:56:10.721Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="Y51PX-E-PK8Tz_5eTeZf" version="14.3.2" type="github" pages="3">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="活动中心">
     <mxGraphModel dx="932" dy="532" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -2497,8 +2497,8 @@
         <mxCell id="p82O2CqZSxfGQg2NTd5P-117" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontSize=16;strokeColor=#FF8000;" edge="1" parent="p82O2CqZSxfGQg2NTd5P-110" source="p82O2CqZSxfGQg2NTd5P-114" target="p82O2CqZSxfGQg2NTd5P-116">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="p82O2CqZSxfGQg2NTd5P-118" value="&lt;font color=&quot;#ff8000&quot;&gt;MQ&lt;br style=&quot;font-size: 12px&quot;&gt;事件&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=12;fontStyle=1;" vertex="1" parent="p82O2CqZSxfGQg2NTd5P-110">
-          <mxGeometry x="8" y="71.08" width="34" height="32" as="geometry" />
+        <mxCell id="p82O2CqZSxfGQg2NTd5P-118" value="&lt;font color=&quot;#ff8000&quot;&gt;MQ&lt;br style=&quot;font-size: 12px&quot;&gt;事件&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=12;fontStyle=0;" vertex="1" parent="p82O2CqZSxfGQg2NTd5P-110">
+          <mxGeometry x="8" y="81.08" width="34" height="32" as="geometry" />
         </mxCell>
         <mxCell id="p82O2CqZSxfGQg2NTd5P-119" value="业务系统" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=18;fontStyle=0;" vertex="1" parent="p82O2CqZSxfGQg2NTd5P-110">
           <mxGeometry x="44" y="30.04" width="82" height="26" as="geometry" />
