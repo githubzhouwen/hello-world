@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-23T05:53:43.240Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="k4mpUGzUMLvGeZbT_vqo" version="14.4.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-02-23T06:16:19.557Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="hmkqqBYzmFKWLWXcVeLe" version="14.4.2" type="github" pages="3">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="活动中心">
     <mxGraphModel dx="932" dy="532" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -1959,7 +1959,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="QV9OboEb4cp_Cfr23IsI" name="S大促">
-    <mxGraphModel dx="932" dy="532" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="777" dy="443" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="rfalXjpCReByq5IYMZaH-0" />
         <mxCell id="rfalXjpCReByq5IYMZaH-1" parent="rfalXjpCReByq5IYMZaH-0" />
@@ -2855,29 +2855,35 @@
         <mxCell id="v3G-N23f5PawXFnsWx30-81" value="个人经历概述" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=20;fontStyle=1;fontColor=#FF8000;" vertex="1" parent="rfalXjpCReByq5IYMZaH-1">
           <mxGeometry x="172" y="1077" width="130" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="v3G-N23f5PawXFnsWx30-82" value="2017年08月" style="text;whiteSpace=wrap;fontSize=24;fontFamily=Verdana;html=1;fontColor=#4D4D4D;" vertex="1" parent="rfalXjpCReByq5IYMZaH-1">
-          <mxGeometry x="30" y="1137" width="144" height="43" as="geometry" />
+        <mxCell id="v3G-N23f5PawXFnsWx30-82" value="2017年08月" style="text;whiteSpace=wrap;fontSize=20;fontFamily=Verdana;html=1;fontColor=#4D4D4D;" vertex="1" parent="rfalXjpCReByq5IYMZaH-1">
+          <mxGeometry x="114" y="1147.88" width="119" height="43" as="geometry" />
         </mxCell>
-        <mxCell id="v3G-N23f5PawXFnsWx30-83" value="至今" style="text;whiteSpace=wrap;fontSize=24;fontFamily=Verdana;html=1;fontColor=#4D4D4D;" vertex="1" parent="rfalXjpCReByq5IYMZaH-1">
-          <mxGeometry x="118" y="1242" width="54" height="43" as="geometry" />
+        <mxCell id="v3G-N23f5PawXFnsWx30-83" value="至今" style="text;whiteSpace=wrap;fontSize=20;fontFamily=Verdana;html=1;fontColor=#4D4D4D;" vertex="1" parent="rfalXjpCReByq5IYMZaH-1">
+          <mxGeometry x="188" y="1245.13" width="54" height="43" as="geometry" />
         </mxCell>
-        <mxCell id="v3G-N23f5PawXFnsWx30-86" value="" style="shape=flexArrow;endArrow=classic;html=1;strokeColor=#FF8000;fontFamily=Verdana;fontSize=24;fontColor=#FF9933;" edge="1" parent="rfalXjpCReByq5IYMZaH-1">
+        <mxCell id="v3G-N23f5PawXFnsWx30-87" value="" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;outline=standard;symbol=general;fontFamily=Verdana;fontSize=24;fontColor=#4D4D4D;strokeColor=none;fillColor=#FF8000;" vertex="1" parent="rfalXjpCReByq5IYMZaH-1">
+          <mxGeometry x="285" y="1157" width="18" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="v3G-N23f5PawXFnsWx30-91" value="" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;outline=standard;symbol=general;fontFamily=Verdana;fontSize=24;fontColor=#4D4D4D;strokeColor=none;fillColor=#FF8000;" vertex="1" parent="rfalXjpCReByq5IYMZaH-1">
+          <mxGeometry x="285" y="1209" width="18" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="v3G-N23f5PawXFnsWx30-93" value="车险团队" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=18;fontFamily=Verdana;fontColor=#4D4D4D;" vertex="1" parent="rfalXjpCReByq5IYMZaH-1">
+          <mxGeometry x="320" y="1153" width="82" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="v3G-N23f5PawXFnsWx30-94" value="&lt;font color=&quot;#ffb570&quot;&gt;消费金融团队&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=24;fontFamily=Verdana;fontColor=#4D4D4D;" vertex="1" parent="rfalXjpCReByq5IYMZaH-1">
+          <mxGeometry x="320" y="1199" width="154" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="v3G-N23f5PawXFnsWx30-95" value="" style="endArrow=none;html=1;strokeColor=#FF8000;fontFamily=Verdana;fontSize=34;fontColor=#FF9933;strokeWidth=2;startArrow=none;startFill=0;" edge="1" parent="rfalXjpCReByq5IYMZaH-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="144.5" y="1171" as="sourcePoint" />
-            <mxPoint x="144.5" y="1251" as="targetPoint" />
+            <mxPoint x="295" y="1281" as="sourcePoint" />
+            <mxPoint x="294.58" y="1150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="v3G-N23f5PawXFnsWx30-87" value="" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;outline=standard;symbol=general;strokeColor=#4D4D4D;fillColor=#4D4D4D;fontFamily=Verdana;fontSize=24;fontColor=#4D4D4D;" vertex="1" parent="rfalXjpCReByq5IYMZaH-1">
-          <mxGeometry x="210" y="1149.5" width="18" height="18" as="geometry" />
+        <mxCell id="v3G-N23f5PawXFnsWx30-96" value="2019年10月" style="text;whiteSpace=wrap;fontSize=20;fontFamily=Verdana;html=1;fontColor=#4D4D4D;" vertex="1" parent="rfalXjpCReByq5IYMZaH-1">
+          <mxGeometry x="114" y="1199.13" width="121" height="43" as="geometry" />
         </mxCell>
-        <mxCell id="v3G-N23f5PawXFnsWx30-91" value="" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;outline=standard;symbol=general;strokeColor=#4D4D4D;fillColor=#4D4D4D;fontFamily=Verdana;fontSize=24;fontColor=#4D4D4D;" vertex="1" parent="rfalXjpCReByq5IYMZaH-1">
-          <mxGeometry x="210" y="1209" width="18" height="18" as="geometry" />
-        </mxCell>
-        <mxCell id="v3G-N23f5PawXFnsWx30-93" value="车险团队" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=24;fontFamily=Verdana;fontColor=#4D4D4D;" vertex="1" parent="rfalXjpCReByq5IYMZaH-1">
-          <mxGeometry x="257" y="1142" width="106" height="33" as="geometry" />
-        </mxCell>
-        <mxCell id="v3G-N23f5PawXFnsWx30-94" value="消费金融团队" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=24;fontFamily=Verdana;fontColor=#4D4D4D;" vertex="1" parent="rfalXjpCReByq5IYMZaH-1">
-          <mxGeometry x="257" y="1200" width="154" height="33" as="geometry" />
+        <mxCell id="v3G-N23f5PawXFnsWx30-97" value="滴&lt;br&gt;滴&lt;br&gt;金&lt;br&gt;融" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=20;fontFamily=Verdana;horizontal=1;direction=east;fontColor=#FFB570;" vertex="1" parent="rfalXjpCReByq5IYMZaH-1">
+          <mxGeometry x="246" y="1153" width="30" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
