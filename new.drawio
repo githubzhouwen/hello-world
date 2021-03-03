@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-03T13:23:51.818Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" etag="E4QBTtTUa1SIAkj75AqP" version="14.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-03T13:27:03.686Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" etag="k92DdeYkUBXGWPDtvsU8" version="14.4.3" type="github">
   <diagram id="gs8es_048TPa-fxmdob4" name="Page-1">
     <mxGraphModel dx="1331" dy="754" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -359,6 +359,24 @@
         </mxCell>
         <mxCell id="P6FP3i3TC3KOu5trFAKK-178" value="逾期处理" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=20;align=center;strokeColor=none;fontColor=#FFFFFF;fillColor=#CCCCCC;" vertex="1" parent="1">
           <mxGeometry x="3065.5" y="1793" width="115" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="P6FP3i3TC3KOu5trFAKK-180" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=16;align=left;dashed=1;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="3658" y="1544" width="89" height="141" as="geometry" />
+        </mxCell>
+        <mxCell id="P6FP3i3TC3KOu5trFAKK-181" value="&lt;font color=&quot;#cc6600&quot;&gt;厂商&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=20;fontFamily=Verdana;fontColor=#000000;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="3677.9958536585364" y="1546.9992573900506" width="50" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="P6FP3i3TC3KOu5trFAKK-182" value="入库" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=20;align=center;fontColor=#FFFFFF;strokeColor=none;fillColor=#CCCCCC;" vertex="1" parent="1">
+          <mxGeometry x="3673" y="1587" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="P6FP3i3TC3KOu5trFAKK-183" value="上报" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=20;align=center;strokeColor=none;fontColor=#FFFFFF;fillColor=#CCCCCC;" vertex="1" parent="1">
+          <mxGeometry x="3673" y="1636" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="P6FP3i3TC3KOu5trFAKK-184" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=16;align=left;dashed=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="3207" y="1627" width="439" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="P6FP3i3TC3KOu5trFAKK-185" value="&lt;font color=&quot;#cc6600&quot;&gt;行业平台&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=20;fontFamily=Verdana;fontColor=#000000;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="3211.9958536585364" y="1641.9992573900506" width="90" height="28" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
