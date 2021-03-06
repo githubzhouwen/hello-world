@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-06T14:51:15.144Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" etag="kbiKYfzfMswZ0uqeQ31T" version="14.4.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-03-06T14:55:15.592Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" etag="TC4yKe9T_wDu7eQnX8h8" version="14.4.3" type="github" pages="4">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="活动中心">
     <mxGraphModel dx="2663" dy="1509" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -3975,7 +3975,7 @@
         <mxCell id="9i5SMHIp495Xhlvwz3rU-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontSize=16;strokeColor=#FF8000;" parent="hhVzcCFVl0M8b_uhcbL8-2" source="9i5SMHIp495Xhlvwz3rU-33" target="9i5SMHIp495Xhlvwz3rU-35" edge="1">
           <mxGeometry x="-11" y="-27.039999999999964" as="geometry" />
         </mxCell>
-        <mxCell id="9i5SMHIp495Xhlvwz3rU-37" value="&lt;font color=&quot;#ff8000&quot;&gt;MQ&lt;br style=&quot;font-size: 12px&quot;&gt;事件&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=12;fontStyle=0;" parent="hhVzcCFVl0M8b_uhcbL8-2" vertex="1">
+        <mxCell id="9i5SMHIp495Xhlvwz3rU-37" value="&lt;font&gt;MQ&lt;br style=&quot;font-size: 12px&quot;&gt;事件&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=12;fontStyle=0;fontColor=#FF6666;" parent="hhVzcCFVl0M8b_uhcbL8-2" vertex="1">
           <mxGeometry x="3" y="56.039999999999964" width="34" height="32" as="geometry" />
         </mxCell>
         <mxCell id="9i5SMHIp495Xhlvwz3rU-38" value="&lt;font style=&quot;font-size: 16px&quot; color=&quot;#4d4d4d&quot;&gt;&lt;b&gt;业务系统&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=18;fontStyle=0;" parent="hhVzcCFVl0M8b_uhcbL8-2" vertex="1">
