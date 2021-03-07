@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-07T16:18:36.328Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" etag="F63qhwakGfNXpGpH3jbt" version="14.4.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-03-07T16:18:58.534Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" etag="bUT8GK0PVPBQoyRyakYR" version="14.4.3" type="github" pages="4">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="活动中心">
     <mxGraphModel grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" page="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -3880,7 +3880,7 @@
         <mxCell id="qxEwLYg8IzWA4YMsbIeu-134" value="&lt;ol class=&quot;ol1&quot; style=&quot;font-size: 14px ; line-height: 150%&quot;&gt;&lt;li class=&quot;li1&quot;&gt;&lt;font&gt;重新设计数据结构&lt;/font&gt;&lt;/li&gt;&lt;li class=&quot;li1&quot;&gt;&lt;font&gt;统一标准接口&lt;/font&gt;&lt;/li&gt;&lt;li class=&quot;li2&quot;&gt;&lt;font&gt;按保司隔离，&lt;/font&gt;对接7家保司&lt;/li&gt;&lt;/ol&gt;" style="shape=rect;fontSize=12;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=0;spacingTop=-15;spacingLeft=-15;fillColor=#FFFFFF;dashed=1;fontColor=#808080;strokeColor=#999999;" parent="rfalXjpCReByq5IYMZaH-1" vertex="1">
           <mxGeometry x="4143.5" y="2921.25" width="125" height="177.75" as="geometry" />
         </mxCell>
-        <mxCell id="qxEwLYg8IzWA4YMsbIeu-135" value="人行征信项目" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;strokeColor=none;fontSize=17;fontStyle=1;align=center;rounded=0;fontColor=#FFFFFF;fillColor=#FF6666;" parent="rfalXjpCReByq5IYMZaH-1" vertex="1">
+        <mxCell id="qxEwLYg8IzWA4YMsbIeu-135" value="人行征信项目" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;strokeColor=none;fontSize=17;fontStyle=1;align=center;rounded=0;fontColor=#FFFFFF;fillColor=#FF9999;" parent="rfalXjpCReByq5IYMZaH-1" vertex="1">
           <mxGeometry x="4273" y="2881.25" width="131" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qxEwLYg8IzWA4YMsbIeu-136" value="&lt;ol class=&quot;ol1&quot; style=&quot;font-size: 14px ; line-height: 150%&quot;&gt;&lt;li class=&quot;li1&quot;&gt;&lt;b&gt;人行征信项目搭建（0-1搭建1、2代系统）&lt;/b&gt;&lt;/li&gt;&lt;li class=&quot;li1&quot;&gt;征信安全质量保障体系&lt;/li&gt;&lt;/ol&gt;" style="shape=rect;fontSize=12;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=0;spacingTop=-15;spacingLeft=-15;fillColor=#FFFFFF;dashed=1;fontColor=#FF8000;strokeColor=#999999;" parent="rfalXjpCReByq5IYMZaH-1" vertex="1">
