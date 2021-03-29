@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-29T03:29:19.144Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="cy61iefPzbPJJy6WfsiN" version="14.4.9" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-03-29T03:30:18.632Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="lrcXO-Sepoo_OkpUV1hR" version="14.4.9" type="github" pages="4">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="活动中心">
-    <mxGraphModel dx="1412" dy="757" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1412" dy="696" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4159,7 +4159,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="dM3OIRm1tM-U8QreGrAb" name="Page-4">
-    <mxGraphModel dx="672" dy="331" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" page="1" fold="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="YP2N3VvSB_XhlN78Puhp-0" />
         <mxCell id="YP2N3VvSB_XhlN78Puhp-1" parent="YP2N3VvSB_XhlN78Puhp-0" />
