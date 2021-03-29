@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-18T09:50:18.574Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="XUN0cnY7atjUzFqTMi3J" version="14.4.8" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-03-29T03:29:19.144Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="cy61iefPzbPJJy6WfsiN" version="14.4.9" type="github" pages="4">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="活动中心">
-    <mxGraphModel dx="932" dy="532" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1412" dy="757" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1132,7 +1132,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="bxwQReecxEUyaIvUrJBZ" name="征信数据中台">
-    <mxGraphModel dx="1864" dy="1064" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1412" dy="757" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="u6GbhwiS5OFPrCx52x9q-0" />
         <mxCell id="u6GbhwiS5OFPrCx52x9q-1" parent="u6GbhwiS5OFPrCx52x9q-0" />
@@ -2147,7 +2147,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="QV9OboEb4cp_Cfr23IsI" name="S大促">
-    <mxGraphModel dx="1331" dy="759" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1412" dy="696" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="rfalXjpCReByq5IYMZaH-0" />
         <mxCell id="rfalXjpCReByq5IYMZaH-1" parent="rfalXjpCReByq5IYMZaH-0" />
@@ -4159,34 +4159,10 @@
     </mxGraphModel>
   </diagram>
   <diagram id="dM3OIRm1tM-U8QreGrAb" name="Page-4">
-    <mxGraphModel dx="18640" dy="10560" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="672" dy="331" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="YP2N3VvSB_XhlN78Puhp-0" />
         <mxCell id="YP2N3VvSB_XhlN78Puhp-1" parent="YP2N3VvSB_XhlN78Puhp-0" />
-        <mxCell id="YP2N3VvSB_XhlN78Puhp-12" value="人行征信项目" style="shape=rect;rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeColor=none;fillColor=#64BBE2;arcSize=30;fontSize=14;spacingLeft=42;fontStyle=1;fontColor=#FFFFFF;align=left;" parent="YP2N3VvSB_XhlN78Puhp-1" vertex="1">
-          <mxGeometry x="650" y="190" width="220" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="YP2N3VvSB_XhlN78Puhp-13" value="1" style="shape=ellipse;perimeter=ellipsePerimeter;fontSize=22;fontStyle=1;shadow=0;strokeColor=#ffffff;fillColor=#10739E;strokeWidth=4;fontColor=#ffffff;align=center;" parent="YP2N3VvSB_XhlN78Puhp-1" vertex="1">
-          <mxGeometry x="620" y="180" width="60" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="YP2N3VvSB_XhlN78Puhp-14" value="营销S大促" style="shape=rect;rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeColor=none;fillColor=#F8C382;arcSize=30;fontSize=14;spacingLeft=42;fontStyle=1;fontColor=#FFFFFF;align=left;" parent="YP2N3VvSB_XhlN78Puhp-1" vertex="1">
-          <mxGeometry x="650" y="255" width="220" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="YP2N3VvSB_XhlN78Puhp-15" value="2" style="shape=ellipse;perimeter=ellipsePerimeter;fontSize=22;fontStyle=1;shadow=0;strokeColor=#ffffff;fillColor=#F2931E;strokeWidth=4;fontColor=#ffffff;align=center;" parent="YP2N3VvSB_XhlN78Puhp-1" vertex="1">
-          <mxGeometry x="620" y="245" width="60" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="YP2N3VvSB_XhlN78Puhp-16" value="未来工作规划" style="shape=rect;rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeColor=none;fillColor=#F08E81;arcSize=30;fontSize=14;spacingLeft=42;fontStyle=1;fontColor=#FFFFFF;align=left;" parent="YP2N3VvSB_XhlN78Puhp-1" vertex="1">
-          <mxGeometry x="650" y="320" width="220" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="YP2N3VvSB_XhlN78Puhp-17" value="3" style="shape=ellipse;perimeter=ellipsePerimeter;fontSize=22;fontStyle=1;shadow=0;strokeColor=#ffffff;fillColor=#AE4132;strokeWidth=4;fontColor=#ffffff;align=center;" parent="YP2N3VvSB_XhlN78Puhp-1" vertex="1">
-          <mxGeometry x="620" y="310" width="60" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="YP2N3VvSB_XhlN78Puhp-22" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.aws;strokeColor=#FFB570;fillColor=#E6E6E6;" parent="YP2N3VvSB_XhlN78Puhp-1" vertex="1">
-          <mxGeometry x="618.2" y="389" width="63.6" height="58.400000000000006" as="geometry" />
-        </mxCell>
-        <mxCell id="wElBrurkSXyfsjjVjkGs-0" value="" style="dashed=0;labelPosition=right;align=left;shape=mxgraph.gmdl.checkbox;strokeColor=none;fillColor=#009587;strokeWidth=2;aspect=fixed;fontColor=#666666;" parent="YP2N3VvSB_XhlN78Puhp-1" vertex="1">
-          <mxGeometry x="642" y="498" width="16" height="16" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
