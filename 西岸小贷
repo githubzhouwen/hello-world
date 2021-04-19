@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-19T03:45:51.815Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="cHj1OqWvlZVTMCR3IU8u" version="14.5.10" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-19T03:49:31.664Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="W_Gjlh-Ojz-Uen-gGxEU" version="14.5.10" type="github">
   <diagram id="FYLM84d1LE7-JJD1eqbs" name="Page-1">
-    <mxGraphModel dx="1661" dy="891" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1177" dy="631" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -15,6 +15,32 @@
         </mxCell>
         <mxCell id="whab82n7zXCGeyTe3k_P-3" value="核销导入" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="960" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="whab82n7zXCGeyTe3k_P-7" value="" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="1456" y="615" width="20" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="whab82n7zXCGeyTe3k_P-8" value="核销系统" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="1558" y="615" width="100" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="whab82n7zXCGeyTe3k_P-9" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="whab82n7zXCGeyTe3k_P-8">
+          <mxGeometry x="45" y="73" width="10" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="whab82n7zXCGeyTe3k_P-10" value="1.导入初始核销数据" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;" edge="1" target="whab82n7zXCGeyTe3k_P-9" parent="1" source="whab82n7zXCGeyTe3k_P-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1534" y="688" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1540" y="695" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="whab82n7zXCGeyTe3k_P-11" value="财务系统" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="1683" y="615" width="100" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="whab82n7zXCGeyTe3k_P-12" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="whab82n7zXCGeyTe3k_P-11">
+          <mxGeometry x="45" y="73" width="10" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="whab82n7zXCGeyTe3k_P-13" value="&lt;span style=&quot;color: rgb(253 , 129 , 60) ; font-family: , , &amp;#34;segoe ui&amp;#34; , &amp;#34;roboto&amp;#34; , &amp;#34;ubuntu&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;microsoft yahei ui&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , , sans-serif ; font-size: 13px&quot;&gt;贷后运营&lt;br&gt;管理人员&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1435" y="578" width="62" height="32" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
