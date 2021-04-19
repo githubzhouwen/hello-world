@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-19T03:51:23.465Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="g5e1YEL_MHP6XJTZCyL4" version="14.5.10" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-19T03:52:57.898Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="PVZ15d1KIRMLlUTVrt8L" version="14.5.10" type="github">
   <diagram id="FYLM84d1LE7-JJD1eqbs" name="西岸小贷核销">
     <mxGraphModel dx="1177" dy="631" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -17,7 +17,7 @@
           <mxGeometry x="960" y="680" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="whab82n7zXCGeyTe3k_P-7" value="" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="1456" y="615" width="20" height="300" as="geometry" />
+          <mxGeometry x="1456" y="537" width="20" height="379" as="geometry" />
         </mxCell>
         <mxCell id="whab82n7zXCGeyTe3k_P-8" value="核销系统" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="1558" y="537" width="100" height="378" as="geometry" />
@@ -34,16 +34,27 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="whab82n7zXCGeyTe3k_P-11" value="财务系统" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="1971" y="537" width="100" height="377" as="geometry" />
+          <mxGeometry x="1962" y="540" width="100" height="377" as="geometry" />
         </mxCell>
         <mxCell id="whab82n7zXCGeyTe3k_P-12" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="whab82n7zXCGeyTe3k_P-11">
           <mxGeometry x="45" y="73" width="10" height="60" as="geometry" />
         </mxCell>
         <mxCell id="whab82n7zXCGeyTe3k_P-13" value="&lt;span style=&quot;color: rgb(253 , 129 , 60) ; font-family: , , &amp;#34;segoe ui&amp;#34; , &amp;#34;roboto&amp;#34; , &amp;#34;ubuntu&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;microsoft yahei ui&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , , sans-serif ; font-size: 13px&quot;&gt;贷后运营&lt;br&gt;管理人员&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1435" y="578" width="62" height="32" as="geometry" />
+          <mxGeometry x="1435" y="481" width="62" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="whab82n7zXCGeyTe3k_P-14" value="自动跑批" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1558" y="587" width="196" height="83" as="geometry" />
+        <mxCell id="whab82n7zXCGeyTe3k_P-14" value="跑批任务" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1558" y="582" width="196" height="101" as="geometry" />
+        </mxCell>
+        <mxCell id="whab82n7zXCGeyTe3k_P-15" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="1604" y="637" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="whab82n7zXCGeyTe3k_P-16" value="自动生成&lt;br&gt;核销初始&lt;br&gt;数据" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" edge="1" target="whab82n7zXCGeyTe3k_P-15" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1609" y="617" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1639" y="617" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
