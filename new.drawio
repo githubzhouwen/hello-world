@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-18T09:48:21.578Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="-_VcrdHhMTlaFd2nb9JR" version="14.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-26T03:37:47.733Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="pSlYigOrFAWgzljsQfMF" version="14.5.10" type="github" pages="2">
   <diagram id="gs8es_048TPa-fxmdob4" name="Page-1">
-    <mxGraphModel dx="2663" dy="1517" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1412" dy="757" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -462,6 +462,14 @@
             <mxPoint x="2370.754768292683" y="2415.4000865176636" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="5OrUU88raNEvyu-boN4g" name="swot复盘">
+    <mxGraphModel dx="1412" dy="757" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+      <root>
+        <mxCell id="JPvI_rv8aL0Yl5RuulPh-0" />
+        <mxCell id="JPvI_rv8aL0Yl5RuulPh-1" parent="JPvI_rv8aL0Yl5RuulPh-0" />
       </root>
     </mxGraphModel>
   </diagram>
