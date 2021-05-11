@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-28T11:54:20.062Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="TSLXrw8LA8FMQFi-MZPx" version="14.5.10" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-05-11T06:12:32.409Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="kS22i2L_2iuxcdjE4g2G" version="14.6.9" type="github" pages="2">
   <diagram id="gs8es_048TPa-fxmdob4" name="Page-1">
-    <mxGraphModel dx="1864" dy="1058" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1553" dy="855" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -462,14 +462,32 @@
             <mxPoint x="2370.754768292683" y="2415.4000865176636" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="z7g5ek5YR1vm2YMnxvZo-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#999999;" edge="1" parent="1" source="z7g5ek5YR1vm2YMnxvZo-1" target="z7g5ek5YR1vm2YMnxvZo-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z7g5ek5YR1vm2YMnxvZo-1" value="数据上报txt" style="shape=datastore;whiteSpace=wrap;html=1;rounded=1;strokeWidth=1;fillColor=none;fontSize=18;align=center;verticalAlign=middle;fontColor=#666666;strokeColor=#999999;" vertex="1" parent="1">
+          <mxGeometry x="1305" y="3383" width="114" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="z7g5ek5YR1vm2YMnxvZo-2" value="Hadoop Client" style="whiteSpace=wrap;html=1;rounded=1;fontSize=18;fontColor=#666666;strokeColor=#999999;strokeWidth=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1296" y="3526" width="132" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="5OrUU88raNEvyu-boN4g" name="swot复盘">
-    <mxGraphModel dx="3728" dy="2116" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+  <diagram id="5OrUU88raNEvyu-boN4g" name="xxx">
+    <mxGraphModel dx="932" dy="513" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="JPvI_rv8aL0Yl5RuulPh-0" />
         <mxCell id="JPvI_rv8aL0Yl5RuulPh-1" parent="JPvI_rv8aL0Yl5RuulPh-0" />
+        <mxCell id="KckN2Lhyfj--d5ZOWvZQ-0" value="数据分层思想" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="JPvI_rv8aL0Yl5RuulPh-1">
+          <mxGeometry x="374" y="295" width="82" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="KckN2Lhyfj--d5ZOWvZQ-1" value="全局视角" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="JPvI_rv8aL0Yl5RuulPh-1">
+          <mxGeometry x="386" y="335" width="58" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="KckN2Lhyfj--d5ZOWvZQ-4" value="灵活性" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="JPvI_rv8aL0Yl5RuulPh-1">
+          <mxGeometry x="392" y="381" width="46" height="18" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
