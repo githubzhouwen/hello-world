@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-17T13:50:08.627Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="Lf50KZKyYYOq1VCLBIek" version="14.6.9" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-05-17T13:50:46.054Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="dV_7Br_71R8Vmp7XDu1N" version="14.6.9" type="github" pages="3">
   <diagram id="gs8es_048TPa-fxmdob4" name="Page-1">
     <mxGraphModel dx="1331" dy="757" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -699,13 +699,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="rd0v_sKTCYLjLghF0Zdd-56" value="重发延&lt;br&gt;迟消息" style="rhombus;whiteSpace=wrap;html=1;rounded=0;dashed=1;fontSize=14;strokeColor=#999999;align=center;fontColor=#666666;" vertex="1" parent="rd0v_sKTCYLjLghF0Zdd-1">
+        <mxCell id="rd0v_sKTCYLjLghF0Zdd-56" value="重发延&lt;br&gt;迟消息" style="rhombus;whiteSpace=wrap;html=1;rounded=0;dashed=1;fontSize=14;align=center;fillColor=#fff2cc;strokeColor=none;" vertex="1" parent="rd0v_sKTCYLjLghF0Zdd-1">
           <mxGeometry x="688" y="311" width="69" height="58" as="geometry" />
         </mxCell>
         <mxCell id="rd0v_sKTCYLjLghF0Zdd-59" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontSize=14;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#999999;fontColor=#666666;" edge="1" parent="rd0v_sKTCYLjLghF0Zdd-1" source="rd0v_sKTCYLjLghF0Zdd-57" target="rd0v_sKTCYLjLghF0Zdd-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rd0v_sKTCYLjLghF0Zdd-57" value="是否&lt;br&gt;召回" style="rhombus;whiteSpace=wrap;html=1;rounded=0;dashed=1;fontSize=14;strokeColor=#999999;align=center;fontColor=#666666;" vertex="1" parent="rd0v_sKTCYLjLghF0Zdd-1">
+        <mxCell id="rd0v_sKTCYLjLghF0Zdd-57" value="是否&lt;br&gt;召回" style="rhombus;whiteSpace=wrap;html=1;rounded=0;dashed=1;fontSize=14;align=center;fillColor=#fff2cc;strokeColor=none;" vertex="1" parent="rd0v_sKTCYLjLghF0Zdd-1">
           <mxGeometry x="688" y="235" width="69" height="53" as="geometry" />
         </mxCell>
         <mxCell id="rd0v_sKTCYLjLghF0Zdd-60" value="" style="line;strokeWidth=4;direction=south;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;rounded=0;dashed=1;fontSize=14;align=center;fontColor=#666666;" vertex="1" parent="rd0v_sKTCYLjLghF0Zdd-1">
