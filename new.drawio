@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-18T03:11:55.364Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="QMTDXhFpnDojr3wastbH" version="14.6.13" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-05-18T03:13:10.170Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="wuRDBKtv6aj02ROf-Tle" version="14.6.13" type="github" pages="4">
   <diagram id="gs8es_048TPa-fxmdob4" name="Page-1">
     <mxGraphModel dx="932" dy="530" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -728,8 +728,8 @@
         <mxCell id="D-c7HsJVIbHH3RD04Fzl-1" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontColor=#4D4D4D;strokeColor=#999999;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="rd0v_sKTCYLjLghF0Zdd-1" source="rd0v_sKTCYLjLghF0Zdd-15" target="rd0v_sKTCYLjLghF0Zdd-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="D-c7HsJVIbHH3RD04Fzl-3" value="4.授信通过延迟消息：MQ-mht_loan_int_recall_delay_message" style="text;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontColor=#666666;" vertex="1" parent="rd0v_sKTCYLjLghF0Zdd-1">
-          <mxGeometry x="296" y="496" width="393" height="42" as="geometry" />
+        <mxCell id="D-c7HsJVIbHH3RD04Fzl-3" value="2&amp;4.Kafka to Mq延迟消息：MQ-mht_loan_int_recall_delay_message" style="text;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontColor=#666666;" vertex="1" parent="rd0v_sKTCYLjLghF0Zdd-1">
+          <mxGeometry x="320" y="508" width="377" height="18" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
