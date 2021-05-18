@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-18T03:13:10.170Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="wuRDBKtv6aj02ROf-Tle" version="14.6.13" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-05-18T03:21:02.253Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="oXHKwwhg43YkHNZqPBgF" version="14.6.13" type="github" pages="4">
   <diagram id="gs8es_048TPa-fxmdob4" name="Page-1">
     <mxGraphModel dx="932" dy="530" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -693,9 +693,6 @@
             <mxPoint x="510" y="263" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rd0v_sKTCYLjLghF0Zdd-52" value="1.申支延迟消息：MQ-mht_loan_real_time_marketing" style="text;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=12;fontColor=#666666;" parent="rd0v_sKTCYLjLghF0Zdd-1" vertex="1">
-          <mxGeometry x="301" y="483" width="330" height="18" as="geometry" />
-        </mxCell>
         <mxCell id="rd0v_sKTCYLjLghF0Zdd-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontSize=14;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#999999;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontColor=#666666;" parent="rd0v_sKTCYLjLghF0Zdd-1" source="rd0v_sKTCYLjLghF0Zdd-56" target="rd0v_sKTCYLjLghF0Zdd-19" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -728,8 +725,14 @@
         <mxCell id="D-c7HsJVIbHH3RD04Fzl-1" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontColor=#4D4D4D;strokeColor=#999999;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="rd0v_sKTCYLjLghF0Zdd-1" source="rd0v_sKTCYLjLghF0Zdd-15" target="rd0v_sKTCYLjLghF0Zdd-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="D-c7HsJVIbHH3RD04Fzl-3" value="2&amp;4.Kafka to Mq延迟消息：MQ-mht_loan_int_recall_delay_message" style="text;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontColor=#666666;" vertex="1" parent="rd0v_sKTCYLjLghF0Zdd-1">
-          <mxGeometry x="320" y="508" width="377" height="18" as="geometry" />
+        <mxCell id="D-c7HsJVIbHH3RD04Fzl-6" value="1.申支延迟消息(Kafka to Mq)：MQ-mht_loan_real_time_marketing" style="whiteSpace=wrap;html=1;rounded=1;dashed=1;fontColor=#666666;strokeColor=#999999;align=left;spacingLeft=5;" vertex="1" parent="rd0v_sKTCYLjLghF0Zdd-1">
+          <mxGeometry x="354" y="476" width="435" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="D-c7HsJVIbHH3RD04Fzl-7" value="&lt;span&gt;2.授信前流量延迟消息(Kafka to Mq&lt;/span&gt;&lt;span&gt;)：MQ-mht_loan_int_recall_delay_message&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;dashed=1;fontColor=#666666;strokeColor=#999999;align=left;spacingLeft=5;" vertex="1" parent="rd0v_sKTCYLjLghF0Zdd-1">
+          <mxGeometry x="354" y="520" width="435" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="D-c7HsJVIbHH3RD04Fzl-8" value="&lt;span&gt;4.授信通过延迟消息(Mq to Mq&lt;/span&gt;&lt;span&gt;)：MQ-mht_loan_int_recall_delay_message&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;dashed=1;fontColor=#666666;strokeColor=#999999;align=left;spacingLeft=5;" vertex="1" parent="rd0v_sKTCYLjLghF0Zdd-1">
+          <mxGeometry x="354" y="561" width="435" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
