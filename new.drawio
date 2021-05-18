@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-18T03:45:39.970Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="k13UHFyA38K3gBqzVXnm" version="14.6.13" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-05-18T03:49:22.643Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="7vWl0t3Q91OYquQC58OQ" version="14.6.13" type="github" pages="4">
   <diagram id="gs8es_048TPa-fxmdob4" name="Page-1">
     <mxGraphModel dx="932" dy="530" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -544,7 +544,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="IRMhTL-kDryZXCWylhRF" name="MOT">
-    <mxGraphModel dx="932" dy="530" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1096" dy="624" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="rd0v_sKTCYLjLghF0Zdd-0" />
         <mxCell id="rd0v_sKTCYLjLghF0Zdd-1" parent="rd0v_sKTCYLjLghF0Zdd-0" />
@@ -716,13 +716,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="D-c7HsJVIbHH3RD04Fzl-6" value="1.申支延迟消息(Kafka to Mq)：mht_loan_real_time_marketing" style="whiteSpace=wrap;html=1;rounded=1;dashed=1;fontColor=#666666;strokeColor=#999999;align=left;spacingLeft=5;" vertex="1" parent="rd0v_sKTCYLjLghF0Zdd-1">
-          <mxGeometry x="488" y="488" width="410" height="30" as="geometry" />
+          <mxGeometry x="269" y="503" width="410" height="30" as="geometry" />
         </mxCell>
         <mxCell id="D-c7HsJVIbHH3RD04Fzl-7" value="&lt;span&gt;2.授信前协议延迟消息(Kafka to Mq&lt;/span&gt;&lt;span&gt;)：mht_loan_int_recall_delay_message&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;dashed=1;fontColor=#666666;strokeColor=#999999;align=left;spacingLeft=5;" vertex="1" parent="rd0v_sKTCYLjLghF0Zdd-1">
-          <mxGeometry x="488" y="532" width="410" height="30" as="geometry" />
+          <mxGeometry x="269" y="547" width="410" height="30" as="geometry" />
         </mxCell>
         <mxCell id="D-c7HsJVIbHH3RD04Fzl-8" value="&lt;span&gt;4.授信通过延迟消息(Mq to Mq&lt;/span&gt;&lt;span&gt;)：mht_loan_int_recall_delay_message&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;dashed=1;fontColor=#666666;strokeColor=#999999;align=left;spacingLeft=5;" vertex="1" parent="rd0v_sKTCYLjLghF0Zdd-1">
-          <mxGeometry x="488" y="573" width="410" height="30" as="geometry" />
+          <mxGeometry x="270" y="627" width="410" height="30" as="geometry" />
         </mxCell>
         <mxCell id="D-c7HsJVIbHH3RD04Fzl-10" value="&lt;span style=&quot;text-align: left&quot;&gt;loanFlowIntRecallMessage&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontColor=#666666;" vertex="1" parent="rd0v_sKTCYLjLghF0Zdd-1">
           <mxGeometry x="277.73" y="437" width="153" height="18" as="geometry" />
@@ -735,6 +735,9 @@
         </mxCell>
         <mxCell id="D-c7HsJVIbHH3RD04Fzl-14" value="" style="line;strokeWidth=1;direction=south;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;rounded=0;dashed=1;fontSize=14;align=center;fontColor=#666666;strokeColor=#999999;" vertex="1" parent="rd0v_sKTCYLjLghF0Zdd-1">
           <mxGeometry x="282" y="210" width="10" height="146.5" as="geometry" />
+        </mxCell>
+        <mxCell id="D-c7HsJVIbHH3RD04Fzl-15" value="3.流量(Kafka to&amp;nbsp;&lt;span style=&quot;text-align: center&quot;&gt;consumeDelayMqMessage&lt;/span&gt;)" style="whiteSpace=wrap;html=1;rounded=1;dashed=1;fontColor=#666666;strokeColor=#999999;align=left;spacingLeft=5;" vertex="1" parent="rd0v_sKTCYLjLghF0Zdd-1">
+          <mxGeometry x="269" y="588" width="410" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
