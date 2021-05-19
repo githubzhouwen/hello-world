@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-19T07:44:01.595Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="My-65bImpzG6IkGTPoSN" version="14.6.13" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-05-19T07:46:26.064Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="s2YqfagnnQR_CqvvMJKq" version="14.6.13" type="github" pages="5">
   <diagram id="gs8es_048TPa-fxmdob4" name="数据上报">
     <mxGraphModel dx="643" dy="366" grid="0" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -880,8 +880,11 @@
       <root>
         <mxCell id="MSfbGzkRH6RETVXOus_6-0" />
         <mxCell id="MSfbGzkRH6RETVXOus_6-1" parent="MSfbGzkRH6RETVXOus_6-0" />
+        <mxCell id="iTCHiuXio5grETPDR2ZJ-10" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontColor=#666666;strokeColor=#999999;strokeWidth=1;align=center;dashed=1;" vertex="1" parent="MSfbGzkRH6RETVXOus_6-1">
+          <mxGeometry x="121" y="97" width="333" height="111" as="geometry" />
+        </mxCell>
         <mxCell id="MSfbGzkRH6RETVXOus_6-7" value="&lt;pre style=&quot;background-color: #ffffff ; color: #000000 ; font-family: &amp;#34;menlo&amp;#34; ; font-size: 9.0pt&quot;&gt;InitDataController&lt;/pre&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;fontSize=14;fontColor=#666666;strokeColor=#999999;strokeWidth=1;align=center;" vertex="1" parent="MSfbGzkRH6RETVXOus_6-1">
-          <mxGeometry x="228" y="45" width="180" height="300" as="geometry" />
+          <mxGeometry x="217.5" y="45" width="201" height="300" as="geometry" />
         </mxCell>
         <mxCell id="MSfbGzkRH6RETVXOus_6-8" value=":Object" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;fontSize=14;fontColor=#666666;strokeColor=#999999;strokeWidth=1;align=center;" vertex="1" parent="MSfbGzkRH6RETVXOus_6-1">
           <mxGeometry x="423" y="45" width="100" height="300" as="geometry" />
@@ -899,7 +902,7 @@
           <mxGeometry x="94" y="45" width="20" height="300" as="geometry" />
         </mxCell>
         <mxCell id="iTCHiuXio5grETPDR2ZJ-0" value="File" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.multi-document;rounded=1;fontSize=14;fontColor=#666666;align=center;whiteSpace=wrap;" vertex="1" parent="MSfbGzkRH6RETVXOus_6-1">
-          <mxGeometry x="135" y="110" width="57" height="41" as="geometry" />
+          <mxGeometry x="135" y="110" width="54" height="41" as="geometry" />
         </mxCell>
         <mxCell id="iTCHiuXio5grETPDR2ZJ-3" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=1;fontSize=14;fontColor=#666666;strokeColor=#999999;strokeWidth=1;align=center;" vertex="1" parent="MSfbGzkRH6RETVXOus_6-1">
           <mxGeometry x="313" y="117" width="10" height="80" as="geometry" />
