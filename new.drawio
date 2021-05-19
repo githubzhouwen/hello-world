@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-19T07:07:29.309Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="4BqVy0HYEBQFOboMjcVY" version="14.6.13" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-05-19T07:44:01.595Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="My-65bImpzG6IkGTPoSN" version="14.6.13" type="github" pages="5">
   <diagram id="gs8es_048TPa-fxmdob4" name="数据上报">
     <mxGraphModel dx="643" dy="366" grid="0" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -881,19 +881,44 @@
         <mxCell id="MSfbGzkRH6RETVXOus_6-0" />
         <mxCell id="MSfbGzkRH6RETVXOus_6-1" parent="MSfbGzkRH6RETVXOus_6-0" />
         <mxCell id="MSfbGzkRH6RETVXOus_6-7" value="&lt;pre style=&quot;background-color: #ffffff ; color: #000000 ; font-family: &amp;#34;menlo&amp;#34; ; font-size: 9.0pt&quot;&gt;InitDataController&lt;/pre&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;fontSize=14;fontColor=#666666;strokeColor=#999999;strokeWidth=1;align=center;" vertex="1" parent="MSfbGzkRH6RETVXOus_6-1">
-          <mxGeometry x="184" y="45" width="180" height="300" as="geometry" />
+          <mxGeometry x="228" y="45" width="180" height="300" as="geometry" />
         </mxCell>
         <mxCell id="MSfbGzkRH6RETVXOus_6-8" value=":Object" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;fontSize=14;fontColor=#666666;strokeColor=#999999;strokeWidth=1;align=center;" vertex="1" parent="MSfbGzkRH6RETVXOus_6-1">
-          <mxGeometry x="379" y="45" width="100" height="300" as="geometry" />
+          <mxGeometry x="423" y="45" width="100" height="300" as="geometry" />
         </mxCell>
         <mxCell id="MSfbGzkRH6RETVXOus_6-9" value=":Object" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;fontSize=14;fontColor=#666666;strokeColor=#999999;strokeWidth=1;align=center;" vertex="1" parent="MSfbGzkRH6RETVXOus_6-1">
-          <mxGeometry x="617" y="45" width="100" height="300" as="geometry" />
+          <mxGeometry x="661" y="45" width="100" height="300" as="geometry" />
         </mxCell>
         <mxCell id="MSfbGzkRH6RETVXOus_6-10" value=":Object" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;fontSize=14;fontColor=#666666;strokeColor=#999999;strokeWidth=1;align=center;" vertex="1" parent="MSfbGzkRH6RETVXOus_6-1">
-          <mxGeometry x="494" y="45" width="100" height="300" as="geometry" />
+          <mxGeometry x="538" y="45" width="100" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="iTCHiuXio5grETPDR2ZJ-1" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontSize=14;fontColor=#666666;endArrow=none;endFill=0;strokeColor=#999999;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="MSfbGzkRH6RETVXOus_6-1" source="MSfbGzkRH6RETVXOus_6-11" target="iTCHiuXio5grETPDR2ZJ-0">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MSfbGzkRH6RETVXOus_6-11" value="" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;rounded=1;fontSize=14;fontColor=#666666;strokeColor=#999999;strokeWidth=1;align=center;" vertex="1" parent="MSfbGzkRH6RETVXOus_6-1">
-          <mxGeometry x="104" y="45" width="20" height="300" as="geometry" />
+          <mxGeometry x="94" y="45" width="20" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="iTCHiuXio5grETPDR2ZJ-0" value="File" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.multi-document;rounded=1;fontSize=14;fontColor=#666666;align=center;whiteSpace=wrap;" vertex="1" parent="MSfbGzkRH6RETVXOus_6-1">
+          <mxGeometry x="135" y="110" width="57" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="iTCHiuXio5grETPDR2ZJ-3" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=1;fontSize=14;fontColor=#666666;strokeColor=#999999;strokeWidth=1;align=center;" vertex="1" parent="MSfbGzkRH6RETVXOus_6-1">
+          <mxGeometry x="313" y="117" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="iTCHiuXio5grETPDR2ZJ-4" value="1.文件初始化" style="html=1;verticalAlign=bottom;startArrow=none;endArrow=block;startSize=8;dashed=1;fontSize=14;fontColor=#666666;strokeColor=#999999;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;startFill=0;" edge="1" target="iTCHiuXio5grETPDR2ZJ-3" parent="MSfbGzkRH6RETVXOus_6-1" source="iTCHiuXio5grETPDR2ZJ-0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="286" y="115" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iTCHiuXio5grETPDR2ZJ-7" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=1;fontSize=14;fontColor=#666666;strokeColor=#999999;strokeWidth=1;align=center;" vertex="1" parent="MSfbGzkRH6RETVXOus_6-1">
+          <mxGeometry x="318" y="150" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iTCHiuXio5grETPDR2ZJ-8" value="1.1 文件解析&lt;br&gt;1.2 批量插入" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;dashed=1;fontSize=14;fontColor=#666666;strokeColor=#999999;" edge="1" target="iTCHiuXio5grETPDR2ZJ-7" parent="MSfbGzkRH6RETVXOus_6-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="323" y="130" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="353" y="130" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
