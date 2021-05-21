@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-21T08:30:11.103Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="DMvUpYXQ3Ayv1kRESnN_" version="14.6.13" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-05-21T08:31:14.992Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="QxGjULb-rjTZdXMbl2VT" version="14.6.13" type="github" pages="5">
   <diagram id="gs8es_048TPa-fxmdob4" name="数据上报">
     <mxGraphModel dx="1096" dy="607" grid="0" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -935,13 +935,13 @@
           <mxGeometry x="141" y="103" width="318" height="123" as="geometry" />
         </mxCell>
         <mxCell id="MSfbGzkRH6RETVXOus_6-7" value="&lt;pre style=&quot;background-color: rgb(255, 255, 255); font-family: menlo; font-size: 9pt;&quot;&gt;InitDataController&lt;/pre&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;fontSize=14;strokeColor=#999999;strokeWidth=1;align=center;fontColor=#4D4D4D;" vertex="1" parent="MSfbGzkRH6RETVXOus_6-1">
-          <mxGeometry x="242" y="45" width="180" height="587" as="geometry" />
+          <mxGeometry x="242" y="45" width="180" height="570" as="geometry" />
         </mxCell>
         <mxCell id="iTCHiuXio5grETPDR2ZJ-1" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontSize=14;endArrow=none;endFill=0;strokeColor=#999999;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#4D4D4D;" edge="1" parent="MSfbGzkRH6RETVXOus_6-1" source="MSfbGzkRH6RETVXOus_6-11" target="iTCHiuXio5grETPDR2ZJ-0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MSfbGzkRH6RETVXOus_6-11" value="" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;rounded=1;fontSize=14;strokeColor=#999999;strokeWidth=1;align=center;fontColor=#4D4D4D;" vertex="1" parent="MSfbGzkRH6RETVXOus_6-1">
-          <mxGeometry x="108" y="45" width="20" height="589" as="geometry" />
+          <mxGeometry x="108" y="45" width="20" height="572" as="geometry" />
         </mxCell>
         <mxCell id="iTCHiuXio5grETPDR2ZJ-0" value="File" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.multi-document;rounded=1;fontSize=14;align=center;whiteSpace=wrap;fontColor=#4D4D4D;strokeColor=#999999;" vertex="1" parent="MSfbGzkRH6RETVXOus_6-1">
           <mxGeometry x="149" y="110" width="54" height="41" as="geometry" />
@@ -993,7 +993,7 @@
           <mxGeometry x="491" y="152" width="109" height="133" as="geometry" />
         </mxCell>
         <mxCell id="70KnQ7C41U3i0EeC8WBw-4" value="&lt;pre style=&quot;background-color: rgb(255 , 255 , 255) ; font-family: &amp;quot;menlo&amp;quot; ; font-size: 9pt&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;helvetica&amp;quot; ; font-size: 14px ; background-color: rgb(248 , 249 , 250)&quot;&gt;HuJinBaseSourceFlushJob&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;fontSize=14;strokeColor=#999999;strokeWidth=1;align=center;fontColor=#4D4D4D;" vertex="1" parent="MSfbGzkRH6RETVXOus_6-1">
-          <mxGeometry x="598" y="45" width="204" height="589" as="geometry" />
+          <mxGeometry x="598" y="45" width="204" height="575" as="geometry" />
         </mxCell>
         <mxCell id="5CuMgzSAlmxG7DE7-OD2-11" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=0;dashed=1;fontSize=14;fontColor=#4D4D4D;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#999999;exitX=-0.171;exitY=0.07;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="MSfbGzkRH6RETVXOus_6-1">
           <mxGeometry relative="1" as="geometry">
