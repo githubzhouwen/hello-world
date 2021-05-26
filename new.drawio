@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-26T07:38:10.364Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="MnLOWptf76I2g6YZgIJc" version="14.7.1" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2021-05-26T07:41:32.235Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="9Xki0LxhdsGH1yMUKuEu" version="14.7.1" type="github" pages="6">
   <diagram id="gs8es_048TPa-fxmdob4" name="数据上报">
     <mxGraphModel dx="7767" dy="4283" grid="0" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -901,6 +901,9 @@
         </mxCell>
         <mxCell id="hWqFQjyHsjmukpfocyyG-22" value="&lt;span style=&quot;text-align: left&quot;&gt;loanFlowIntRecallRecord&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontColor=#666666;" parent="rd0v_sKTCYLjLghF0Zdd-1" vertex="1">
           <mxGeometry x="562" y="440" width="143" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="bNEL7-4zj6TPL6Ab2JL1-1" value="&lt;span&gt;/Users/didi/IdeaProjects/promotion/loan-promotion-server/src/main/java/com/xiaoju/manhattan/promotion/handler/kafka/Consumer_manhattan_webapp_ravan_server.java—FE埋点&lt;br&gt;/Users/didi/IdeaProjects/promotion/loan-promotion-server/src/main/java/com/xiaoju/manhattan/promotion/handler/kafka/Consumer_mth_cf_realData_breakChain.java—亚帅处理完的埋点&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontColor=#666666;" vertex="1" parent="rd0v_sKTCYLjLghF0Zdd-1">
+          <mxGeometry x="596" y="810" width="996" height="32" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
