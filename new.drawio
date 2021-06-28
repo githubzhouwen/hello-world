@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-28T07:10:44.766Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="amR3634wnvxmnJcnMjaX" version="14.8.0" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2021-06-28T07:43:47.681Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="l_8m73bC5uj4u_eR85X1" version="14.8.0" type="github" pages="7">
   <diagram id="gs8es_048TPa-fxmdob4" name="数据上报">
     <mxGraphModel dx="3530" dy="1775" grid="0" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -1428,7 +1428,7 @@
         <mxCell id="N2J2KT1G05UObV8E67q_-26" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontSize=16;strokeColor=#999999;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#666666;" edge="1" parent="N2J2KT1G05UObV8E67q_-1" source="N2J2KT1G05UObV8E67q_-2" target="N2J2KT1G05UObV8E67q_-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="N2J2KT1G05UObV8E67q_-2" value="流量" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;fillColor=#f8cecc;strokeColor=none;fontColor=#666666;" vertex="1" parent="N2J2KT1G05UObV8E67q_-1">
+        <mxCell id="N2J2KT1G05UObV8E67q_-2" value="流量" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="N2J2KT1G05UObV8E67q_-1">
           <mxGeometry x="382" y="319" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="N2J2KT1G05UObV8E67q_-8" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontSize=16;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#999999;fontColor=#666666;" edge="1" parent="N2J2KT1G05UObV8E67q_-1" source="N2J2KT1G05UObV8E67q_-3" target="N2J2KT1G05UObV8E67q_-6">
@@ -1436,9 +1436,9 @@
             <mxPoint x="771" y="503" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="N2J2KT1G05UObV8E67q_-13" value="权益刺激&amp;amp;&lt;br&gt;活动增强粘性" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;labelBackgroundColor=none;fontColor=#666666;" vertex="1" connectable="0" parent="N2J2KT1G05UObV8E67q_-8">
+        <mxCell id="N2J2KT1G05UObV8E67q_-13" value="权益刺激/&lt;br&gt;活动增强粘性" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;labelBackgroundColor=none;fontColor=#666666;" vertex="1" connectable="0" parent="N2J2KT1G05UObV8E67q_-8">
           <mxGeometry x="-0.1656" y="3" relative="1" as="geometry">
-            <mxPoint x="51" y="-2" as="offset" />
+            <mxPoint x="57" y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="N2J2KT1G05UObV8E67q_-3" value="转化" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;strokeColor=#999999;dashed=1;fontColor=#666666;" vertex="1" parent="N2J2KT1G05UObV8E67q_-1">
@@ -1455,15 +1455,15 @@
             <mxPoint x="432" y="346" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="N2J2KT1G05UObV8E67q_-5" value="分组&lt;br&gt;实验" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;fillColor=#f8cecc;strokeColor=none;fontColor=#666666;" vertex="1" parent="N2J2KT1G05UObV8E67q_-1">
+        <mxCell id="N2J2KT1G05UObV8E67q_-5" value="分组&lt;br&gt;实验" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="N2J2KT1G05UObV8E67q_-1">
           <mxGeometry x="470" y="176" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="N2J2KT1G05UObV8E67q_-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontSize=16;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#999999;fontColor=#666666;" edge="1" parent="N2J2KT1G05UObV8E67q_-1" source="N2J2KT1G05UObV8E67q_-6" target="N2J2KT1G05UObV8E67q_-5">
+        <mxCell id="N2J2KT1G05UObV8E67q_-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontSize=16;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#999999;fontColor=#666666;dashed=1;" edge="1" parent="N2J2KT1G05UObV8E67q_-1" source="N2J2KT1G05UObV8E67q_-6" target="N2J2KT1G05UObV8E67q_-5">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="390" y="663" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="258" y="622" />
-              <mxPoint x="258" y="144" />
+              <mxPoint x="270" y="622" />
+              <mxPoint x="270" y="144" />
               <mxPoint x="520" y="144" />
             </Array>
           </mxGeometry>
@@ -1480,7 +1480,7 @@
         <mxCell id="N2J2KT1G05UObV8E67q_-27" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontSize=16;strokeColor=#999999;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#666666;" edge="1" parent="N2J2KT1G05UObV8E67q_-1" source="N2J2KT1G05UObV8E67q_-19" target="N2J2KT1G05UObV8E67q_-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="N2J2KT1G05UObV8E67q_-19" value="资源" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;fillColor=#f8cecc;strokeColor=none;fontColor=#666666;" vertex="1" parent="N2J2KT1G05UObV8E67q_-1">
+        <mxCell id="N2J2KT1G05UObV8E67q_-19" value="资源" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="N2J2KT1G05UObV8E67q_-1">
           <mxGeometry x="554" y="319" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="N2J2KT1G05UObV8E67q_-20" value="权益：免息、出行券、红包…&lt;br&gt;业务活动：额度、利率&lt;br&gt;营销活动、断点营销" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=16;fontColor=#666666;" vertex="1" parent="N2J2KT1G05UObV8E67q_-1">
