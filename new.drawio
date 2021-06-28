@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-28T03:48:19.131Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="pvHVXFqNGmZC6y29LTBY" version="14.8.0" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2021-06-28T03:49:44.996Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="Xf9kmuIPFTgcQHwjk8jb" version="14.8.0" type="github" pages="7">
   <diagram id="gs8es_048TPa-fxmdob4" name="数据上报">
     <mxGraphModel dx="3530" dy="1775" grid="0" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -1469,6 +1469,9 @@
         </mxCell>
         <mxCell id="N2J2KT1G05UObV8E67q_-14" value="实验彼此隔离&lt;br&gt;效果可视化&lt;br&gt;可追踪" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=16;fontColor=#666666;strokeColor=#999999;" vertex="1" parent="N2J2KT1G05UObV8E67q_-1">
           <mxGeometry x="268" y="482" width="134" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="N2J2KT1G05UObV8E67q_-16" value="效率：精准投放、成本控制" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=16;fontColor=#FF9933;" vertex="1" parent="N2J2KT1G05UObV8E67q_-1">
+          <mxGeometry x="612" y="513" width="202" height="23" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
