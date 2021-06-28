@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-28T03:49:44.996Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="Xf9kmuIPFTgcQHwjk8jb" version="14.8.0" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2021-06-28T03:55:14.997Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="Fl6rTz6IGDfd1X4FwpKu" version="14.8.0" type="github" pages="7">
   <diagram id="gs8es_048TPa-fxmdob4" name="数据上报">
     <mxGraphModel dx="3530" dy="1775" grid="0" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -1426,10 +1426,10 @@
         <mxCell id="N2J2KT1G05UObV8E67q_-0" />
         <mxCell id="N2J2KT1G05UObV8E67q_-1" parent="N2J2KT1G05UObV8E67q_-0" />
         <mxCell id="N2J2KT1G05UObV8E67q_-4" value="资源&lt;br&gt;权益：免息、出行券、红包…&lt;br&gt;额度、利率" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;labelBackgroundColor=none;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;fontColor=#666666;strokeColor=#999999;" edge="1" parent="N2J2KT1G05UObV8E67q_-1" source="N2J2KT1G05UObV8E67q_-2" target="N2J2KT1G05UObV8E67q_-3">
-          <mxGeometry x="0.6048" y="88" relative="1" as="geometry">
+          <mxGeometry x="0.6565" y="78" relative="1" as="geometry">
             <mxPoint x="732.9158975978366" y="341.5525718323995" as="sourcePoint" />
             <mxPoint x="872.1119151270896" y="465.41612551504977" as="targetPoint" />
-            <mxPoint as="offset" />
+            <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="N2J2KT1G05UObV8E67q_-2" value="流量" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;fontColor=#666666;strokeColor=#999999;" vertex="1" parent="N2J2KT1G05UObV8E67q_-1">
@@ -1453,6 +1453,11 @@
             <mxPoint x="511" y="383" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="N2J2KT1G05UObV8E67q_-17" value="人群与特征标签" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;labelBackgroundColor=none;fontColor=#666666;" vertex="1" connectable="0" parent="N2J2KT1G05UObV8E67q_-12">
+          <mxGeometry x="0.0927" y="-3" relative="1" as="geometry">
+            <mxPoint x="-60" y="-18" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="N2J2KT1G05UObV8E67q_-15" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontSize=16;fontColor=#666666;strokeColor=#999999;" edge="1" parent="N2J2KT1G05UObV8E67q_-1" source="N2J2KT1G05UObV8E67q_-5" target="N2J2KT1G05UObV8E67q_-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -1464,6 +1469,11 @@
             <mxPoint x="583" y="653" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="N2J2KT1G05UObV8E67q_-18" value="数据分析&amp;amp;迭代" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;fontColor=#666666;labelBackgroundColor=none;" vertex="1" connectable="0" parent="N2J2KT1G05UObV8E67q_-10">
+          <mxGeometry x="-0.0285" y="2" relative="1" as="geometry">
+            <mxPoint x="-53" y="9" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="N2J2KT1G05UObV8E67q_-6" value="拉新&lt;br&gt;留存&lt;br&gt;GMV提升" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;fontColor=#666666;strokeColor=#999999;" vertex="1" parent="N2J2KT1G05UObV8E67q_-1">
           <mxGeometry x="663" y="656" width="100" height="100" as="geometry" />
         </mxCell>
@@ -1471,7 +1481,7 @@
           <mxGeometry x="268" y="482" width="134" height="96" as="geometry" />
         </mxCell>
         <mxCell id="N2J2KT1G05UObV8E67q_-16" value="效率：精准投放、成本控制" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=16;fontColor=#FF9933;" vertex="1" parent="N2J2KT1G05UObV8E67q_-1">
-          <mxGeometry x="612" y="513" width="202" height="23" as="geometry" />
+          <mxGeometry x="610" y="518.5" width="202" height="23" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
