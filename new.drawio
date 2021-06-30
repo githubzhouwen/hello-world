@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-30T03:24:08.475Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="T59kxG5cLWolbMY56aN2" version="14.8.0" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2021-06-30T03:25:03.083Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="7GrgNhyui65hucWKVdrA" version="14.8.0" type="github" pages="7">
   <diagram id="gs8es_048TPa-fxmdob4" name="数据上报">
     <mxGraphModel dx="3530" dy="1775" grid="0" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -1501,7 +1501,7 @@
           <mxGeometry x="182" y="338.5" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="N2J2KT1G05UObV8E67q_-36" value="&lt;span style=&quot;text-align: left&quot;&gt;BigTag、圈人、&lt;br&gt;断点、行为事件流等&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=16;fontColor=#666666;" vertex="1" parent="N2J2KT1G05UObV8E67q_-1">
-          <mxGeometry x="229" y="382" width="154" height="42" as="geometry" />
+          <mxGeometry x="231.5" y="377" width="154" height="42" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
