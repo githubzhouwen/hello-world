@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-19T06:56:22.763Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="b5ivEHHy2bQ5NpU9fHtM" version="15.2.7" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2021-09-19T06:57:23.288Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="M6Sp3endeK7tMs8M8Rdg" version="15.2.7" type="github" pages="7">
   <diagram id="gs8es_048TPa-fxmdob4" name="数据上报">
     <mxGraphModel dx="1577" dy="880" grid="0" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -1451,9 +1451,9 @@
             <mxPoint x="771" y="584" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="N2J2KT1G05UObV8E67q_-13" value="权益刺激/&lt;br&gt;活动增强粘性" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;labelBackgroundColor=none;fontColor=#666666;" parent="N2J2KT1G05UObV8E67q_-8" vertex="1" connectable="0">
+        <mxCell id="N2J2KT1G05UObV8E67q_-13" value="权益刺激/&lt;br style=&quot;font-size: 12px;&quot;&gt;活动增强粘性" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;labelBackgroundColor=none;fontColor=#666666;" parent="N2J2KT1G05UObV8E67q_-8" vertex="1" connectable="0">
           <mxGeometry x="-0.1656" y="3" relative="1" as="geometry">
-            <mxPoint x="94" y="-39" as="offset" />
+            <mxPoint x="83" y="-38" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="N2J2KT1G05UObV8E67q_-3" value="转化" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;strokeColor=#999999;dashed=1;fontColor=#666666;" parent="N2J2KT1G05UObV8E67q_-1" vertex="1">
@@ -1493,11 +1493,11 @@
         <mxCell id="N2J2KT1G05UObV8E67q_-19" value="资源" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;fillColor=#d5e8d4;strokeColor=none;" parent="N2J2KT1G05UObV8E67q_-1" vertex="1">
           <mxGeometry x="500" y="486.5" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="N2J2KT1G05UObV8E67q_-20" value="权益：免息、出行券、红包…&lt;br&gt;业务活动：额度、利率、营销活动、断点营销" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=16;fontColor=#666666;" parent="N2J2KT1G05UObV8E67q_-1" vertex="1">
-          <mxGeometry x="573" y="490.5" width="330" height="42" as="geometry" />
+        <mxCell id="N2J2KT1G05UObV8E67q_-20" value="权益：免息、出行券、红包…&lt;br style=&quot;font-size: 12px;&quot;&gt;业务活动：额度、利率、营销活动、断点营销" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=12;fontColor=#666666;" parent="N2J2KT1G05UObV8E67q_-1" vertex="1">
+          <mxGeometry x="575" y="495.5" width="250" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="N2J2KT1G05UObV8E67q_-21" value="人群标签&lt;br&gt;特征标签&lt;br&gt;&lt;span style=&quot;text-align: left&quot;&gt;子实验/策略&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=16;fontColor=#666666;" parent="N2J2KT1G05UObV8E67q_-1" vertex="1">
-          <mxGeometry x="401" y="409" width="94" height="61" as="geometry" />
+        <mxCell id="N2J2KT1G05UObV8E67q_-21" value="人群标签&lt;br style=&quot;font-size: 12px;&quot;&gt;特征标签&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;text-align: left; font-size: 12px;&quot;&gt;子实验/策略&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=12;fontColor=#666666;" parent="N2J2KT1G05UObV8E67q_-1" vertex="1">
+          <mxGeometry x="415" y="417" width="73" height="46" as="geometry" />
         </mxCell>
         <mxCell id="N2J2KT1G05UObV8E67q_-22" value="实验&lt;font&gt;数据&lt;br&gt;&lt;/font&gt;分析&amp;amp;迭代" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=16;fontColor=#FF9933;" parent="N2J2KT1G05UObV8E67q_-1" vertex="1">
           <mxGeometry x="376" y="632" width="85" height="42" as="geometry" />
