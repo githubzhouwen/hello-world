@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-03T02:33:29.109Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="Q7N9ApkevEIE94r_8gLy" version="15.4.0" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2021-10-03T02:34:06.003Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="2Kb_fa0X_S3eTJ9TxX4J" version="15.4.0" type="github" pages="6">
   <diagram id="gs8es_048TPa-fxmdob4" name="数据上报">
     <mxGraphModel dx="788" dy="428" grid="0" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -993,7 +993,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="umPWkzQSi0w371RIlVge" name="东华机器">
-    <mxGraphModel dx="932" dy="514" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="513" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="4y5Z5mnZhJgsGWQ9JL_h-0" />
         <mxCell id="4y5Z5mnZhJgsGWQ9JL_h-1" parent="4y5Z5mnZhJgsGWQ9JL_h-0" />
