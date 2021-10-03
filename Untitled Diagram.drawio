@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-29T03:30:18.632Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="lrcXO-Sepoo_OkpUV1hR" version="14.4.9" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-10-03T02:36:00.215Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="NeizIyHDYKgdiTFkF57v" version="15.4.0" type="github" pages="3">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="活动中心">
-    <mxGraphModel dx="1412" dy="696" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="513" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1132,7 +1132,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="bxwQReecxEUyaIvUrJBZ" name="征信数据中台">
-    <mxGraphModel dx="1412" dy="757" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1892" dy="1026" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="u6GbhwiS5OFPrCx52x9q-0" />
         <mxCell id="u6GbhwiS5OFPrCx52x9q-1" parent="u6GbhwiS5OFPrCx52x9q-0" />
@@ -2147,7 +2147,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="QV9OboEb4cp_Cfr23IsI" name="S大促">
-    <mxGraphModel dx="1412" dy="696" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="513" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="rfalXjpCReByq5IYMZaH-0" />
         <mxCell id="rfalXjpCReByq5IYMZaH-1" parent="rfalXjpCReByq5IYMZaH-0" />
@@ -4155,14 +4155,6 @@
         <mxCell id="lyKpXBICUL-V_13OPokq-85" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;fontColor=#999999;" parent="rfalXjpCReByq5IYMZaH-1" source="lyKpXBICUL-V_13OPokq-82" target="lyKpXBICUL-V_13OPokq-82" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="dM3OIRm1tM-U8QreGrAb" name="Page-4">
-    <mxGraphModel grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" page="1" fold="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
-      <root>
-        <mxCell id="YP2N3VvSB_XhlN78Puhp-0" />
-        <mxCell id="YP2N3VvSB_XhlN78Puhp-1" parent="YP2N3VvSB_XhlN78Puhp-0" />
       </root>
     </mxGraphModel>
   </diagram>
