@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-03T02:37:11.271Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="wTobeMfpmajsbpJDqaXQ" version="15.4.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-10-03T02:37:50.046Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="uwrpwbnGfy3pCJN45HUF" version="15.4.0" type="github" pages="3">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="活动中心">
     <mxGraphModel dx="946" dy="513" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -2147,7 +2147,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="QV9OboEb4cp_Cfr23IsI" name="S大促">
-    <mxGraphModel dx="946" dy="513" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="788" dy="428" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="rfalXjpCReByq5IYMZaH-0" />
         <mxCell id="rfalXjpCReByq5IYMZaH-1" parent="rfalXjpCReByq5IYMZaH-0" />
@@ -3821,7 +3821,7 @@
           <mxGeometry x="231" y="100" width="15" height="10" as="geometry" />
         </mxCell>
         <mxCell id="qxEwLYg8IzWA4YMsbIeu-122" value="" style="group" parent="rfalXjpCReByq5IYMZaH-1" vertex="1" connectable="0">
-          <mxGeometry x="4741" y="2185.04" width="512.25" height="205" as="geometry" />
+          <mxGeometry x="4098" y="2321" width="512.25" height="205" as="geometry" />
         </mxCell>
         <mxCell id="qxEwLYg8IzWA4YMsbIeu-102" value="数据梦工厂" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#E6E6E6;strokeWidth=2;fillColor=#FFFFFF;fontSize=12;fontColor=#4D4D4D;align=center;" parent="qxEwLYg8IzWA4YMsbIeu-122" vertex="1">
           <mxGeometry y="44.940000000000055" width="80" height="30" as="geometry" />
