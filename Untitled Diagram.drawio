@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-03T02:37:50.046Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="uwrpwbnGfy3pCJN45HUF" version="15.4.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-08-03T03:12:30.620Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="hIYQWAOLOycsmQ-qXjeT" version="20.2.2" type="github" pages="3">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="活动中心">
-    <mxGraphModel dx="946" dy="513" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="527" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1132,7 +1132,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="bxwQReecxEUyaIvUrJBZ" name="征信数据中台">
-    <mxGraphModel dx="1892" dy="1026" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1720" dy="958" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="u6GbhwiS5OFPrCx52x9q-0" />
         <mxCell id="u6GbhwiS5OFPrCx52x9q-1" parent="u6GbhwiS5OFPrCx52x9q-0" />
@@ -2006,13 +2006,9 @@
             <mxPoint x="853.71" y="4613" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="h8EkxmgpmUlwqY7g3yY6-242" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;dashed=1;labelBackgroundColor=#ffffff;strokeColor=#000000;strokeWidth=2;fontSize=11;fontColor=#000000;align=center;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;curved=1;" parent="u6GbhwiS5OFPrCx52x9q-1" source="h8EkxmgpmUlwqY7g3yY6-189" target="h8EkxmgpmUlwqY7g3yY6-59" edge="1">
+        <mxCell id="h8EkxmgpmUlwqY7g3yY6-242" value="" style="rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;dashed=1;labelBackgroundColor=#ffffff;strokeColor=#000000;strokeWidth=2;fontSize=11;fontColor=#000000;align=center;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="u6GbhwiS5OFPrCx52x9q-1" source="h8EkxmgpmUlwqY7g3yY6-189" target="h8EkxmgpmUlwqY7g3yY6-59" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="710" y="5175" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="716" y="5100" />
-              <mxPoint x="716" y="4810" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="jmdlJFtngcEo9cPT5Ak0-8" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=16;align=left;dashed=1;" parent="u6GbhwiS5OFPrCx52x9q-1" vertex="1">
