@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-02T14:00:54.145Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="JarP1YnKvgk8_B2H7oFW" version="20.2.7" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-12-02T14:02:33.663Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="raFyFMIYTOJkf2V-A4n1" version="20.2.7" type="github" pages="4">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="活动中心">
     <mxGraphModel dx="946" dy="535" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -4232,7 +4232,7 @@
         <mxCell id="SS196fHl5jm2bvCh8Mg3-25" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;size=0.5;" vertex="1" parent="1">
           <mxGeometry x="900" y="332.25" width="44" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="SS196fHl5jm2bvCh8Mg3-30" value="超级网银" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SS196fHl5jm2bvCh8Mg3-30" value="......超级网银" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="827" y="373" width="76" height="35" as="geometry" />
         </mxCell>
         <mxCell id="SS196fHl5jm2bvCh8Mg3-33" value="project_info" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -4258,6 +4258,16 @@
         <mxCell id="SS196fHl5jm2bvCh8Mg3-38" value="自动循环购买" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="338.5" y="430.25" width="84.5" height="35" as="geometry" />
         </mxCell>
+        <mxCell id="SS196fHl5jm2bvCh8Mg3-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontColor=#FF0000;endArrow=none;endFill=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SS196fHl5jm2bvCh8Mg3-39" target="SS196fHl5jm2bvCh8Mg3-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="747.1891108675445" y="292.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="778" y="295" />
+              <mxPoint x="1138" y="295" />
+              <mxPoint x="1138" y="397" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="SS196fHl5jm2bvCh8Mg3-39" value="UPM" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="745" y="372.5" width="65" height="35" as="geometry" />
         </mxCell>
@@ -4274,7 +4284,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="SS196fHl5jm2bvCh8Mg3-46" value="循环购买+发起封包" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="766" y="493" width="130" height="35" as="geometry" />
+          <mxGeometry x="766" y="488" width="130" height="35" as="geometry" />
         </mxCell>
         <mxCell id="SS196fHl5jm2bvCh8Mg3-49" value="现金流类型" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="343.5" y="313.25" width="65" height="30" as="geometry" />
