@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-02T13:59:54.210Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="iKB4oI3lYcVhec5I_r7f" version="20.2.7" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-12-02T14:00:54.145Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="JarP1YnKvgk8_B2H7oFW" version="20.2.7" type="github" pages="4">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="活动中心">
     <mxGraphModel dx="946" dy="535" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -4215,7 +4215,7 @@
           <mxGeometry x="944" y="427.25" width="76" height="35" as="geometry" />
         </mxCell>
         <mxCell id="SS196fHl5jm2bvCh8Mg3-16" value="付款状态" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" vertex="1" parent="1">
-          <mxGeometry x="952" y="290" width="60" height="30" as="geometry" />
+          <mxGeometry x="952" y="296" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SS196fHl5jm2bvCh8Mg3-17" value="0-申请" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1033" y="326.75" width="76" height="35" as="geometry" />
@@ -4227,7 +4227,7 @@
           <mxGeometry x="1033" y="427.25" width="76" height="35" as="geometry" />
         </mxCell>
         <mxCell id="SS196fHl5jm2bvCh8Mg3-20" value="审批状态" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" vertex="1" parent="1">
-          <mxGeometry x="1041" y="290" width="60" height="30" as="geometry" />
+          <mxGeometry x="1041" y="296" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SS196fHl5jm2bvCh8Mg3-25" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;size=0.5;" vertex="1" parent="1">
           <mxGeometry x="900" y="332.25" width="44" height="120" as="geometry" />
@@ -4275,6 +4275,9 @@
         </mxCell>
         <mxCell id="SS196fHl5jm2bvCh8Mg3-46" value="循环购买+发起封包" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="766" y="493" width="130" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="SS196fHl5jm2bvCh8Mg3-49" value="现金流类型" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="343.5" y="313.25" width="65" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
